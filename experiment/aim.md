@@ -8,14 +8,14 @@ SPICE (Simulation Program with Integrated Circuit Emphasis) is a powerful progra
 
 Several types of circuit analyses can be done using SPICE program. Here are the most important ones-
 
-    - DC analysis: calculates the DC transfer curve.
-    - Transient analysis: calculates the voltage and current as a function of time when a large signal is applied.
-    - AC Analysis: calculates the output as a function of frequency. A bode plot is generated.
-    - Noise analysis.
-    - Sensitivity analysis.
-    - Distortion analysis.
-    - Fourier analysis: calculates and plots the frequency spectrum.
-    - Monte Carlo Analysis
+ - DC analysis: calculates the DC transfer curve.
+ - Transient analysis: calculates the voltage and current as a function of time when a large signal is applied.
+ - AC Analysis: calculates the output as a function of frequency. A bode plot is generated.
+ - Noise analysis.
+ - Sensitivity analysis.
+ - Distortion analysis.
+ - Fourier analysis: calculates and plots the frequency spectrum.
+ - Monte Carlo Analysis
 
 
-All analyses can be done at different temperatures. The default temperature is 300K
+All analyses can be done at different temperatures. The default temperature is 300K.
