@@ -42,3 +42,9 @@
 #obs-table {
     overflow: auto;
 }
+
+.v-instruction-container {
+  margin-top: 30px;
+  border: .2rem solid #97d23d;
+  justify-content: flex-start;
+}
