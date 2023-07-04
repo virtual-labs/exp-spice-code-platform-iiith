@@ -1,4 +1,6 @@
-[
+{
+    "version": 2.0,
+    "questions":[
     {
         "question": "1.  For storing DC operating point the command used is ____",
         "answers": {
@@ -7,7 +9,14 @@
             "c": ".OP",
             "d": "None of the above"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c",
+        "explanations": {
+            "a":"This command is used for transient analysis, which is used to simulate the behavior of a circuit over time.",
+            "b":"This command is used for optimization, which is used to find the optimal values of certain parameters in a circuit.",
+            "c":"This command is used for operating point analysis, also known as DC analysis. It calculates and stores the DC operating point of a circuit, which includes the DC voltage, current, and other parameters at each node and component.",
+            "d":"One of the above options is correct."
+        },
+            "difficulty": "beginner"
     },
     {
         "question": "2. Analysis done to study the effect of time is called ____",
@@ -17,7 +26,14 @@
             "c": "Transient Analysis",
             "d": "Noise Analysis"
         },
-        "correctAnswer": "c"
+        "correctAnswer": "c",
+        "explanations": {
+            "a":"AC Analysis refers to the analysis of a circuit or system under sinusoidal steady-state conditions. It focuses on the behavior of the circuit or system with respect to frequency, such as voltage amplitudes, phase angles, and impedance. It does not specifically study the effect of time",
+            "b":"DC Analysis, also known as steady-state analysis, involves studying the behavior of a circuit or system when it is in a stable, non-changing state. It typically deals with constant voltages and currents, without considering the effect of time-varying signals",
+            "c":"Transient Analysis focuses on studying the behavior of a circuit or system during the transition phase when there are sudden changes in the inputs or when the circuit/system is turned on or off. It takes into account the effect of time and examines how the circuit or system responds to transient events. Therefore, transient analysis is the correct option for studying the effect of time.",
+            "d":"Noise Analysis deals with the analysis and characterization of unwanted, random fluctuations or disturbances in a circuit or system. It aims to assess the impact of noise on the circuit's performance"
+        },
+            "difficulty": "intermediate"
     },
     {
         "question": "3. In DC analysis, ___",
@@ -27,7 +43,14 @@
             "c": "Inductor is replaced with open circuit, capacitor is replaced with short circuit",
             "d": "Inductor is replaced with short circuit, capacitor is replaced with short circuit"
         },
-        "correctAnswer": "a"
+        "correctAnswer": "a",
+        "explanations": {
+            "a":"In DC analysis, the assumption is that the frequency is zero, so inductors behave as short circuits and capacitors behave as open circuits. This simplification is based on the fact that inductors oppose changes in current and tend to block DC, while capacitors allow changes in voltage and tend to short out DC.",
+            "b":"If both the inductor and the capacitor are replaced with open circuits, it would imply that they have no effect on the circuit. However, in reality, both inductors and capacitors can have significant effects on circuit behavior, especially at non-zero frequencies.",
+            "c":"If the inductor is replaced with an open circuit and the capacitor is replaced with a short circuit, it would mean that the inductor has no effect on the circuit, while the capacitor allows DC to pass through.",
+            "d":"If both the inductor and the capacitor are replaced with short circuits, it would mean that they have no effect on the circuit. However, in reality, both inductors and capacitors can significantly affect circuit behavior, even at DC."
+        },
+            "difficulty": "advanced"
     },
     {
         "question": " 4. Small signal gain and impedance calculation is called ____",
@@ -37,6 +60,14 @@
             "c": "AC Analysis",
             "d": "Transient Analysis"
         },
-        "correctAnswer": "b"
+        "correctAnswer": "b",
+        "explanations": {
+            "a":"While pole zero analysis is related to small signal analysis, it does not specifically address the calculation of small signal gain and impedance. ",
+            "b":"Transfer function analysis involves calculating the transfer function of a system, which represents the relationship between the input and output signals. Small signal gain and impedance calculations are typically performed using transfer function analysis. ",
+            "c":"It involves determining the circuit's response to an AC input, including calculations of small signal gain and impedance. Therefore, option (c) is partially correct, as it is related to the calculation of small signal gain and impedance. However, it is not as specific as the term 'Transfer Function Analysis' in describing the calculation process.",
+            "d":"Transient analysis involves studying the behavior of a circuit or system during the transition from one steady state to another. It focuses on analyzing the circuit's response to sudden changes or disturbances in the input signals. While transient analysis is essential in understanding the overall behavior of a system, it is not directly related to the calculation of small signal gain and impedance."
+        },
+            "difficulty": "advanced"
     }
 ]
+}
