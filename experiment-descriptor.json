@@ -35,18 +35,18 @@
       "content-type": "assesment"
     },
     {
-      "target": "simulation.html",
-      "source": "simulation/index.html",
-      "label": "Simulation",
+      "target": "demo-spice-code-platform.html",
+      "source": "simulation/demo.html",
+      "label": "Demo",
       "unit-type": "task",
       "content-type": "simulation"
     },
     {
-      "target": "assignment.html",
-      "source": "assignment.md",
-      "label": "Assignment",
+      "target": "practice.html",
+      "source": "simulation/practice.html",
+      "label": "Practice",
       "unit-type": "task",
-      "content-type": "text"
+      "content-type": "simulation"
     },
     {
       "target": "posttest.html",
@@ -54,6 +54,13 @@
       "label": "Posttest",
       "unit-type": "task",
       "content-type": "assesment"
+    },
+    {
+      "target": "assignment.html",
+      "source": "assignment.md",
+      "label": "Assignment",
+      "unit-type": "task",
+      "content-type": "text"
     },
     {
       "target": "references.html",
