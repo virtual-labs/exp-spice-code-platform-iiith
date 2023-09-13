@@ -1,0 +1,2110 @@
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/js/jquery-ui.min.js
+   11:25   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   12:29   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   13:26   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   14:29   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   15:29   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   17:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   17:441  warning  'jQuery' is not defined                                          no-undef
+   22:1    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   23:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   23:436  warning  'jQuery' is not defined                                          no-undef
+   25:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   26:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   27:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   27:34   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   28:4    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   28:258  warning  'jQuery' is not defined                                          no-undef
+   30:60   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   31:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   32:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   33:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   34:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   35:5    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   36:6    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   37:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   38:4    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   39:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   40:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   41:4    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   42:6    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   43:7    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   44:8    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   45:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   46:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   47:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   48:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   49:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   50:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   51:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   52:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   53:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   54:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   55:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   56:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   57:4    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   58:5    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   59:7    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   60:6    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   61:5    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   62:6    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   63:9    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   63:481  warning  'jQuery' is not defined                                          no-undef
+   65:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   66:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   67:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   68:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   69:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   71:1    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   73:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   73:352  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   74:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   74:275  warning  'jQuery' is not defined                                          no-undef
+   76:52   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   77:54   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   78:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   79:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   80:4    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   81:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   82:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   83:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   84:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   85:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   86:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   87:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   88:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   89:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   90:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   91:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   92:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   93:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   94:4    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   95:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   96:5    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   97:8    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   98:4    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   99:5    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  100:7    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  100:154  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  101:7    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  102:6    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  103:6    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  104:7    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  105:6    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  106:7    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  107:7    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  107:415  warning  'jQuery' is not defined                                          no-undef
+  108:7    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  110:10   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  111:12   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  111:325  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  112:10   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  113:11   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  114:12   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  115:12   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  115:321  warning  'jQuery' is not defined                                          no-undef
+  116:7    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  117:10   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  118:11   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  119:10   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  120:11   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  121:10   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  122:11   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  123:10   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  124:11   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  125:12   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  126:10   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  127:11   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  128:13   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  129:13   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  130:10   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  131:13   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  132:10   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  133:11   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  134:10   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  135:11   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  136:12   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  137:12   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  138:14   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  139:13   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  140:14   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  141:16   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  142:15   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  143:17   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  144:16   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  145:18   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  146:19   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  147:19   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  148:16   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  149:17   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  150:20   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  151:18   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  152:19   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  153:20   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  154:21   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  155:23   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  156:23   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  157:24   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  158:24   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  159:25   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  160:24   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  161:24   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  161:73   warning  'jQuery' is not defined                                          no-undef
+  162:24   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  162:29   warning  'jQuery' is not defined                                          no-undef
+  162:131  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  162:272  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  162:304  warning  Unnecessary escape character: \%                                 no-useless-escape
+  162:334  warning  Unnecessary escape character: \%                                 no-useless-escape
+  162:364  warning  Unnecessary escape character: \%                                 no-useless-escape
+  162:458  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  163:26   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  163:75   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  163:414  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  164:25   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  164:140  warning  Unnecessary escape character: \-                                 no-useless-escape
+  165:26   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  166:28   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  167:27   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  168:27   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  169:31   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  170:30   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  171:30   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  172:30   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  173:30   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  173:273  warning  'unit' is not defined                                            no-undef
+  173:294  warning  'unit' is not defined                                            no-undef
+  173:309  warning  'unit' is not defined                                            no-undef
+  173:319  warning  'unit' is not defined                                            no-undef
+  174:31   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  175:32   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  176:32   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  177:34   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  178:31   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  179:31   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  180:32   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  181:31   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  182:32   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  182:164  warning  'jQuery' is not defined                                          no-undef
+  184:51   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  184:117  warning  'jQuery' is not defined                                          no-undef
+  186:55   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  187:56   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  187:405  warning  'jQuery' is not defined                                          no-undef
+  189:7    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  189:278  warning  'jQuery' is not defined                                          no-undef
+  191:7    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  191:294  warning  'jQuery' is not defined                                          no-undef
+  194:398  warning  'jQuery' is not defined                                          no-undef
+  195:294  warning  'jQuery' is not defined                                          no-undef
+  197:7    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  197:353  warning  'jQuery' is not defined                                          no-undef
+  199:45   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  199:152  warning  'jQuery' is not defined                                          no-undef
+  200:133  warning  'times' is not defined                                           no-undef
+  200:164  warning  'duration' is not defined                                        no-undef
+  200:220  warning  'isVisible' is not defined                                       no-undef
+  200:247  warning  'animateTo' is not defined                                       no-undef
+  200:263  warning  'isVisible' is not defined                                       no-undef
+  200:300  warning  'animateTo' is not defined                                       no-undef
+  200:326  warning  'isVisible' is not defined                                       no-undef
+  200:349  warning  'isVisible' is not defined                                       no-undef
+  200:359  warning  'times' is not defined                                           no-undef
+  200:377  warning  'times' is not defined                                           no-undef
+  200:407  warning  'animateTo' is not defined                                       no-undef
+  200:418  warning  'duration' is not defined                                        no-undef
+  200:445  warning  'animateTo' is not defined                                       no-undef
+  200:456  warning  'animateTo' is not defined                                       no-undef
+  200:490  warning  'animateTo' is not defined                                       no-undef
+  200:501  warning  'duration' is not defined                                        no-undef
+  201:89   warning  'animateTo' is not defined                                       no-undef
+  201:212  warning  'jQuery' is not defined                                          no-undef
+  203:64   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  207:235  warning  'child' is not defined                                           no-undef
+  207:267  warning  'child' is not defined                                           no-undef
+  207:290  warning  'child' is not defined                                           no-undef
+  207:311  warning  'child' is not defined                                           no-undef
+  207:326  warning  'child' is not defined                                           no-undef
+  207:387  warning  'child' is not defined                                           no-undef
+  207:463  warning  'child' is not defined                                           no-undef
+  207:498  warning  'child' is not defined                                           no-undef
+  207:515  warning  'child' is not defined                                           no-undef
+  207:527  warning  'child' is not defined                                           no-undef
+  207:560  warning  'child' is not defined                                           no-undef
+  208:67   warning  'child' is not defined                                           no-undef
+  208:98   warning  'child' is not defined                                           no-undef
+  208:133  warning  'child' is not defined                                           no-undef
+  208:150  warning  'child' is not defined                                           no-undef
+  208:162  warning  'child' is not defined                                           no-undef
+  208:195  warning  'child' is not defined                                           no-undef
+  208:210  warning  'child' is not defined                                           no-undef
+  208:220  warning  'child' is not defined                                           no-undef
+  208:230  warning  'child' is not defined                                           no-undef
+  208:242  warning  'child' is not defined                                           no-undef
+  208:256  warning  'child' is not defined                                           no-undef
+  208:325  warning  'child' is not defined                                           no-undef
+  209:111  warning  'jQuery' is not defined                                          no-undef
+  211:7    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  211:351  warning  'jQuery' is not defined                                          no-undef
+  213:60   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  213:322  warning  'jQuery' is not defined                                          no-undef
+  215:50   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  215:77   warning  'jQuery' is not defined                                          no-undef
+  217:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  218:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  219:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  220:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  221:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  222:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  223:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  224:5    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  225:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  226:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  227:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  228:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  229:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  230:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  231:4    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  232:5    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  232:226  warning  'jQuery' is not defined                                          no-undef
+  234:61   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  234:316  warning  Expected a 'break' statement before 'case'                       no-fallthrough
+  235:46   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  236:47   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  237:47   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  238:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  239:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  240:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  241:4    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  242:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  243:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  243:155  warning  'jQuery' is not defined                                          no-undef
+  245:62   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  246:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  247:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  248:4    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  248:226  warning  'result' is not defined                                          no-undef
+  248:348  warning  'result' is not defined                                          no-undef
+  248:364  warning  'result' is not defined                                          no-undef
+  248:420  warning  'result' is not defined                                          no-undef
+  249:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  249:165  warning  'jQuery' is not defined                                          no-undef
+  251:61   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  252:62   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  253:62   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  254:62   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  255:62   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  256:40   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  257:40   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  258:42   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  259:40   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  260:40   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  261:40   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  261:281  warning  'jQuery' is not defined                                          no-undef
+  266:1    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  267:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  268:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  269:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  270:4    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  271:5    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  272:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  273:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  274:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  275:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  276:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  277:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  278:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  278:363  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  279:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  280:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  281:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  282:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  283:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  284:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  285:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  286:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  287:4    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  288:5    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  289:5    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  290:5    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  291:6    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  292:7    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  292:443  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  293:9    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  294:8    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  295:9    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  296:10   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  297:11   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  298:13   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  299:12   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  300:16   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  301:13   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  302:15   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  302:91   warning  Unexpected constant condition                                    no-constant-condition
+  303:14   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  304:16   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  305:15   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  306:14   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  307:16   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  307:304  warning  Empty block statement                                            no-empty
+  308:15   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  308:313  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  309:16   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  310:18   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  311:17   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  312:19   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  313:18   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  314:18   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  315:18   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  316:19   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  317:20   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  318:21   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  319:21   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  320:22   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  321:22   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  322:23   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  323:24   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  324:24   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  325:25   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  326:24   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  327:25   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  328:25   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  329:26   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  329:332  warning  'jQuery' is not defined                                          no-undef
+  330:26   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  331:29   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  332:30   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  333:31   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  334:29   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  335:29   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  336:29   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  337:29   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  338:29   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  339:29   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  340:30   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  341:30   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  342:30   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  343:29   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  344:29   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  345:29   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  346:31   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  347:31   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  348:30   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  349:30   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  350:30   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  350:404  warning  'jQuery' is not defined                                          no-undef
+  351:26   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  352:26   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  353:26   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  354:28   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  355:26   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  356:26   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  357:26   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  357:373  warning  'jQuery' is not defined                                          no-undef
+  358:26   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  359:29   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  360:30   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  360:146  warning  'jQuery' is not defined                                          no-undef
+  362:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  363:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  364:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  365:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  366:4    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  367:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  368:4    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  369:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  370:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  371:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  372:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  373:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  374:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  375:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  376:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  377:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  378:4    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  379:4    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  379:433  warning  'jQuery' is not defined                                          no-undef
+  381:10   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  382:11   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  383:13   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  384:10   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  385:10   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  386:10   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  387:10   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  387:109  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  388:11   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  389:12   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  390:11   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  391:12   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  392:11   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  393:11   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  394:10   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  395:10   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  396:10   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  397:11   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  398:10   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  399:13   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  399:117  warning  Empty block statement                                            no-empty
+  399:251  warning  Empty block statement                                            no-empty
+  400:12   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  401:13   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+  401:27   warning  't' is not defined                                               no-undef
+  401:287  warning  'jQuery' is not defined                                          no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/js/jquery.min.js
+   17:64   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   19:1    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   19:215  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   22:1    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   22:125  warning  Unnecessary escape character: \-                                 no-useless-escape
+   22:234  warning  Unnecessary escape character: \/                                 no-useless-escape
+   22:319  warning  Unnecessary escape character: \-                                 no-useless-escape
+   22:369  warning  Unnecessary escape character: \/                                 no-useless-escape
+   22:408  warning  Unnecessary escape character: \/                                 no-useless-escape
+   23:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   23:497  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   24:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   25:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   26:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   27:6    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   27:484  warning  'clone' is not defined                                           no-undef
+   27:516  warning  'clone' is not defined                                           no-undef
+   28:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   28:47   warning  'clone' is not defined                                           no-undef
+   28:365  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   29:4    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   29:260  warning  Empty block statement                                            no-empty
+   30:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   31:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   32:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   33:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   34:4    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   35:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   36:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   37:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   38:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   38:498  warning  Empty block statement                                            no-empty
+   39:4    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   40:5    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   41:5    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   42:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   43:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   44:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   45:4    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   45:133  warning  Empty block statement                                            no-empty
+   46:4    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   47:6    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   48:7    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   49:7    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   50:9    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   50:123  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   51:5    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   52:6    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   53:8    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   54:6    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   55:6    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   55:425  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   56:6    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   56:260  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   57:7    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   58:9    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   58:116  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   58:272  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   59:9    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   59:220  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   60:10   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   61:12   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   61:64   warning  Empty block statement                                            no-empty
+   61:374  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   61:440  warning  Empty block statement                                            no-empty
+   62:11   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   63:12   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   64:10   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   65:12   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   66:13   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   67:13   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   68:7    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   68:160  warning  Empty block statement                                            no-empty
+   69:9    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   70:8    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   71:9    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   72:11   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   73:12   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   74:13   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   75:14   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   76:15   warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   77:7    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   77:526  warning  Empty block statement                                            no-empty
+   78:7    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   79:161  warning  Unnecessary escape character: \[                                 no-useless-escape
+   79:187  warning  Unnecessary escape character: \[                                 no-useless-escape
+   79:212  warning  Unnecessary escape character: \[                                 no-useless-escape
+   79:526  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   82:378  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   83:368  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   84:339  warning  Unnecessary escape character: \-                                 no-useless-escape
+   84:380  warning  Unnecessary escape character: \-                                 no-useless-escape
+   84:430  warning  Unnecessary escape character: \-                                 no-useless-escape
+   84:480  warning  Unnecessary escape character: \-                                 no-useless-escape
+   84:554  warning  Unnecessary escape character: \*                                 no-useless-escape
+   84:556  warning  Unnecessary escape character: \-                                 no-useless-escape
+   84:623  warning  Unnecessary escape character: \-                                 no-useless-escape
+   85:131  warning  Unnecessary escape character: \-                                 no-useless-escape
+   85:168  warning  Unnecessary escape character: \-                                 no-useless-escape
+   85:198  warning  Unnecessary escape character: \)                                 no-useless-escape
+   85:207  warning  Unnecessary escape character: \(                                 no-useless-escape
+   85:209  warning  Unnecessary escape character: \)                                 no-useless-escape
+   85:485  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   86:227  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   86:314  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   92:519  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   93:97   warning  Expected a 'break' statement before 'case'                       no-fallthrough
+   93:114  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   95:210  warning  Unnecessary escape character: \[                                 no-useless-escape
+   95:222  warning  Unnecessary escape character: \(                                 no-useless-escape
+   98:294  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  100:328  warning  Empty block statement                                            no-empty
+  100:478  warning  Empty block statement                                            no-empty
+  101:371  warning  Empty block statement                                            no-empty
+  102:498  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  103:119  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  103:482  warning  Unnecessary escape character: \[                                 no-useless-escape
+  103:484  warning  Unnecessary escape character: \.                                 no-useless-escape
+  110:291  warning  Unnecessary escape character: \=                                 no-useless-escape
+  118:549  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  120:107  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  123:535  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  126:248  warning  Empty block statement                                            no-empty
+  128:362  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  130:253  warning  Unnecessary escape character: \=                                 no-useless-escape
+  130:310  warning  Unnecessary escape character: \/                                 no-useless-escape
+  135:521  warning  Empty block statement                                            no-empty
+  138:454  warning  Empty block statement                                            no-empty
+  140:289  warning  Empty block statement                                            no-empty
+  142:479  warning  Empty block statement                                            no-empty
+  144:168  warning  Empty block statement                                            no-empty
+  144:230  warning  Empty block statement                                            no-empty
+  144:318  warning  Unnecessary escape character: \-                                 no-useless-escape
+  144:330  warning  Unnecessary escape character: \-                                 no-useless-escape
+  156:442  warning  Empty block statement                                            no-empty
+  157:541  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  159:166  warning  'f' is assigned to itself                                        no-self-assign
+  164:313  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  164:409  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/external/jquery.bgiframe-2.1.1.js
+  10:1063  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/external/jquery.cookie.js
+  88:13  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/external/jquery.metadata.js
+  122:4  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/external/qunit.js
+    99:1   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   101:1   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   116:6   warning  'start' is not defined                       no-undef
+   128:1   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   130:1   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   134:92  warning  'reset' is not defined                       no-undef
+   188:9   warning  'li' is already defined                      no-redeclare
+   205:15  warning  'i' is already defined                       no-redeclare
+   284:4   warning  'ok' is not defined                          no-undef
+   287:4   warning  'ok' is not defined                          no-undef
+   364:9   warning  'exports' is not defined                     no-undef
+   365:2   warning  'exports' is not defined                     no-undef
+   409:4   warning  'jQuery' is not defined                      no-undef
+   474:17  warning  'failures' is defined but never used         no-unused-vars
+   474:27  warning  'total' is defined but never used            no-unused-vars
+   475:16  warning  'result' is defined but never used           no-unused-vars
+   475:24  warning  'message' is defined but never used          no-unused-vars
+   476:22  warning  'name' is defined but never used             no-unused-vars
+   476:28  warning  'testEnvironment' is defined but never used  no-unused-vars
+   477:21  warning  'name' is defined but never used             no-unused-vars
+   477:27  warning  'failures' is defined but never used         no-unused-vars
+   477:37  warning  'total' is defined but never used            no-unused-vars
+   478:24  warning  'name' is defined but never used             no-unused-vars
+   478:30  warning  'testEnvironment' is defined but never used  no-unused-vars
+   479:23  warning  'name' is defined but never used             no-unused-vars
+   479:29  warning  'failures' is defined but never used         no-unused-vars
+   479:39  warning  'total' is defined but never used            no-unused-vars
+   639:21  warning  Unnecessary escape character: \&             no-useless-escape
+   643:22  warning  Unnecessary escape character: \"             no-useless-escape
+   701:26  warning  'name' is defined but never used             no-unused-vars
+   707:3   warning  'ok' is not defined                          no-undef
+   713:3   warning  'ok' is not defined                          no-undef
+   739:30  warning  'opera' is not defined                       no-undef
+   740:3   warning  'opera' is not defined                       no-undef
+   945:3   warning  Unnecessary semicolon                        no-extra-semi
+   948:3   warning  Unnecessary semicolon                        no-extra-semi
+   958:3   warning  Unnecessary semicolon                        no-extra-semi
+   966:3   warning  Unnecessary semicolon                        no-extra-semi
+   976:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+   977:4   warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  1122:2   warning  Unnecessary semicolon                        no-extra-semi
+  1152:12  warning  'i' is already defined                       no-redeclare
+  1161:12  warning  'i' is already defined                       no-redeclare
+  1174:12  warning  'i' is already defined                       no-redeclare
+  1188:12  warning  'i' is already defined                       no-redeclare
+  1242:13  warning  'i' is already defined                       no-redeclare
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/jquery-1.4.2.js
+    16:20   warning  Shadowing of global property 'undefined'               no-shadow-restricted-names
+    41:20   warning  Unnecessary escape character: \[                       no-useless-escape
+    41:22   warning  Unnecessary escape character: \.                       no-useless-escape
+   442:15   warning  Empty block statement                                  no-empty
+   480:22   warning  Empty block statement                                  no-empty
+   506:52   warning  Unnecessary escape character: \/                       no-useless-escape
+   507:68   warning  Unnecessary escape character: \-                       no-useless-escape
+   580:86   warning  Empty block statement                                  no-empty
+   709:26   warning  Unnecessary escape character: \/                       no-useless-escape
+   710:28   warning  Unnecessary escape character: \/                       no-useless-escape
+   713:2    warning  Mixed spaces and tabs                                  no-mixed-spaces-and-tabs
+   896:13   warning  Empty block statement                                  no-empty
+  1174:30   warning  'i' is defined but never used                          no-unused-vars
+  1174:33   warning  'elem' is defined but never used                       no-unused-vars
+  1220:30   warning  'fn' is defined but never used                         no-unused-vars
+  1545:28   warning  Unnecessary escape character: \.                       no-useless-escape
+  1545:30   warning  Unnecessary escape character: \|                       no-useless-escape
+  1592:35   warning  'eventHandle' is already defined                       no-redeclare
+  1683:18   warning  'fn' is defined but never used                         no-unused-vars
+  1748:14   warning  'j' is already defined                                 no-redeclare
+  1775:5    warning  'ret' is assigned a value but never used               no-unused-vars
+  1866:15   warning  Empty block statement                                  no-empty
+  1893:17   warning  Empty block statement                                  no-empty
+  1919:7    warning  'events' is already defined                            no-redeclare
+  1919:45   warning  'handlers' is already defined                          no-redeclare
+  2170:13   warning  Empty block statement                                  no-empty
+  2199:20   warning  'data' is defined but never used                       no-unused-vars
+  2199:26   warning  'namespaces' is defined but never used                 no-unused-vars
+  2208:1    warning  Mixed spaces and tabs                                  no-mixed-spaces-and-tabs
+  2222:23   warning  'namespaces' is defined but never used                 no-unused-vars
+  2314:20   warning  'data' is defined but never used                       no-unused-vars
+  2314:26   warning  'namespaces' is defined but never used                 no-unused-vars
+  2326:23   warning  'namespaces' is defined but never used                 no-unused-vars
+  2530:45   warning  'data' is defined but never used                       no-unused-vars
+  2619:16   warning  Empty block statement                                  no-empty
+  2632:105  warning  Unnecessary escape character: \[                       no-useless-escape
+  2702:8    warning  'ret' is already defined                               no-redeclare
+  2751:14   warning  'i' is already defined                                 no-redeclare
+  2798:29   warning  'match' is already defined                             no-redeclare
+  2914:30   warning  Unnecessary escape character: \*                       no-useless-escape
+  2917:62   warning  Unnecessary escape character: \)                       no-useless-escape
+  2917:71   warning  Unnecessary escape character: \(                       no-useless-escape
+  2917:73   warning  Unnecessary escape character: \)                       no-useless-escape
+  2941:69   warning  Empty block statement                                  no-empty
+  2967:15   warning  'i' is already defined                                 no-redeclare
+  2967:22   warning  'l' is already defined                                 no-redeclare
+  2968:10   warning  'elem' is already defined                              no-redeclare
+  3051:24   warning  'curLoop' is defined but never used                    no-unused-vars
+  3203:15   warning  'i' is already defined                                 no-redeclare
+  3228:5    warning  Expected a 'break' statement before 'case'             no-fallthrough
+  3317:69   warning  Unnecessary escape character: \[                       no-useless-escape
+  3317:81   warning  Unnecessary escape character: \(                       no-useless-escape
+  3354:15   warning  'i' is already defined                                 no-redeclare
+  3531:15   warning  Empty block statement                                  no-empty
+  3686:1    warning  Unreachable code                                       no-unreachable
+  3693:2    warning  'slice' is already defined                             no-redeclare
+  3703:48   warning  'i' is defined but never used                          no-unused-vars
+  3719:47   warning  'i' is defined but never used                          no-unused-vars
+  3935:35   warning  'elem' is defined but never used                       no-unused-vars
+  4122:5    warning  Mixed spaces and tabs                                  no-mixed-spaces-and-tabs
+  4320:24   warning  'cur' is defined but never used                        no-unused-vars
+  4492:14   warning  'i' is already defined                                 no-redeclare
+  4628:4    warning  Move function declaration to function body root        no-inner-declarations
+  4661:32   warning  'filter' is defined but never used                     no-unused-vars
+  4749:13   warning  'name' is already defined                              no-redeclare
+  4778:25   warning  Unnecessary escape character: \/                       no-useless-escape
+  4871:38   warning  'i' is defined but never used                          no-unused-vars
+  4959:16   warning  Empty block statement                                  no-empty
+  5024:16   warning  Empty block statement                                  no-empty
+  5144:14   warning  Empty block statement                                  no-empty
+  5238:14   warning  Empty block statement                                  no-empty
+  5324:14   warning  Empty block statement                                  no-empty
+  5887:1    warning  Mixed spaces and tabs                                  no-mixed-spaces-and-tabs
+  5888:1    warning  Mixed spaces and tabs                                  no-mixed-spaces-and-tabs
+  5889:1    warning  Mixed spaces and tabs                                  no-mixed-spaces-and-tabs
+  5994:5    warning  'prevOffsetParent' is assigned a value but never used  no-unused-vars
+  6046:44   warning  'table' is assigned a value but never used             no-unused-vars
+  6154:6    warning  Mixed spaces and tabs                                  no-mixed-spaces-and-tabs
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery-ui-i18n.js
+     3:1  warning  'jQuery' is not defined           no-undef
+    24:1  warning  Irregular whitespace not allowed  no-irregular-whitespace
+    28:1  warning  'jQuery' is not defined           no-undef
+    43:2  warning  Mixed spaces and tabs             no-mixed-spaces-and-tabs
+    47:4  warning  Irregular whitespace not allowed  no-irregular-whitespace
+    49:1  warning  'jQuery' is not defined           no-undef
+    69:4  warning  Irregular whitespace not allowed  no-irregular-whitespace
+    71:1  warning  'jQuery' is not defined           no-undef
+    93:1  warning  Irregular whitespace not allowed  no-irregular-whitespace
+    95:1  warning  'jQuery' is not defined           no-undef
+   117:1  warning  'jQuery' is not defined           no-undef
+   137:4  warning  Irregular whitespace not allowed  no-irregular-whitespace
+   139:1  warning  'jQuery' is not defined           no-undef
+   160:1  warning  Irregular whitespace not allowed  no-irregular-whitespace
+   162:1  warning  'jQuery' is not defined           no-undef
+   183:1  warning  Irregular whitespace not allowed  no-irregular-whitespace
+   185:1  warning  'jQuery' is not defined           no-undef
+   206:1  warning  Irregular whitespace not allowed  no-irregular-whitespace
+   208:1  warning  'jQuery' is not defined           no-undef
+   228:4  warning  Irregular whitespace not allowed  no-irregular-whitespace
+   230:1  warning  'jQuery' is not defined           no-undef
+   251:1  warning  Irregular whitespace not allowed  no-irregular-whitespace
+   253:1  warning  'jQuery' is not defined           no-undef
+   276:1  warning  'jQuery' is not defined           no-undef
+   296:4  warning  Irregular whitespace not allowed  no-irregular-whitespace
+   298:1  warning  'jQuery' is not defined           no-undef
+   318:5  warning  Irregular whitespace not allowed  no-irregular-whitespace
+   320:1  warning  'jQuery' is not defined           no-undef
+   340:4  warning  Irregular whitespace not allowed  no-irregular-whitespace
+   343:1  warning  'jQuery' is not defined           no-undef
+   364:1  warning  'jQuery' is not defined           no-undef
+   385:1  warning  Irregular whitespace not allowed  no-irregular-whitespace
+   387:1  warning  'jQuery' is not defined           no-undef
+   408:1  warning  Irregular whitespace not allowed  no-irregular-whitespace
+   410:1  warning  'jQuery' is not defined           no-undef
+   430:4  warning  Irregular whitespace not allowed  no-irregular-whitespace
+   432:1  warning  'jQuery' is not defined           no-undef
+   452:4  warning  Irregular whitespace not allowed  no-irregular-whitespace
+   454:1  warning  'jQuery' is not defined           no-undef
+   475:1  warning  Irregular whitespace not allowed  no-irregular-whitespace
+   477:1  warning  'jQuery' is not defined           no-undef
+   499:1  warning  'jQuery' is not defined           no-undef
+   522:1  warning  'jQuery' is not defined           no-undef
+   544:1  warning  'jQuery' is not defined           no-undef
+   566:1  warning  'jQuery' is not defined           no-undef
+   588:1  warning  'jQuery' is not defined           no-undef
+   609:1  warning  Irregular whitespace not allowed  no-irregular-whitespace
+   611:1  warning  'jQuery' is not defined           no-undef
+   633:1  warning  'jQuery' is not defined           no-undef
+   655:1  warning  'jQuery' is not defined           no-undef
+   678:1  warning  'jQuery' is not defined           no-undef
+   700:1  warning  'jQuery' is not defined           no-undef
+   722:1  warning  'jQuery' is not defined           no-undef
+   742:4  warning  Irregular whitespace not allowed  no-irregular-whitespace
+   744:1  warning  'jQuery' is not defined           no-undef
+   766:1  warning  'jQuery' is not defined           no-undef
+   789:1  warning  'jQuery' is not defined           no-undef
+   812:1  warning  'jQuery' is not defined           no-undef
+   832:4  warning  Irregular whitespace not allowed  no-irregular-whitespace
+   837:1  warning  'jQuery' is not defined           no-undef
+   860:1  warning  'jQuery' is not defined           no-undef
+   882:1  warning  'jQuery' is not defined           no-undef
+   906:1  warning  'jQuery' is not defined           no-undef
+   927:1  warning  Irregular whitespace not allowed  no-irregular-whitespace
+   929:1  warning  'jQuery' is not defined           no-undef
+   950:1  warning  Irregular whitespace not allowed  no-irregular-whitespace
+   952:1  warning  'jQuery' is not defined           no-undef
+   973:1  warning  Irregular whitespace not allowed  no-irregular-whitespace
+   975:1  warning  'jQuery' is not defined           no-undef
+   996:1  warning  Irregular whitespace not allowed  no-irregular-whitespace
+   998:1  warning  'jQuery' is not defined           no-undef
+  1019:1  warning  Irregular whitespace not allowed  no-irregular-whitespace
+  1021:1  warning  'jQuery' is not defined           no-undef
+  1042:1  warning  Irregular whitespace not allowed  no-irregular-whitespace
+  1044:1  warning  'jQuery' is not defined           no-undef
+  1066:1  warning  'jQuery' is not defined           no-undef
+  1088:1  warning  'jQuery' is not defined           no-undef
+  1108:4  warning  Irregular whitespace not allowed  no-irregular-whitespace
+  1110:1  warning  'jQuery' is not defined           no-undef
+  1133:1  warning  'jQuery' is not defined           no-undef
+  1156:1  warning  'jQuery' is not defined           no-undef
+  1177:1  warning  Irregular whitespace not allowed  no-irregular-whitespace
+  1179:1  warning  'jQuery' is not defined           no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-af.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-ar.js
+   5:1  warning  'jQuery' is not defined  no-undef
+  20:2  warning  Mixed spaces and tabs    no-mixed-spaces-and-tabs
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-az.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-bg.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-bs.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-ca.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-cs.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-da.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-de.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-el.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-en-GB.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-eo.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-es.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-et.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-eu.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-fa.js
+  4:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-fi.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-fo.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-fr-CH.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-fr.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-he.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-hr.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-hu.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-hy.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-id.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-is.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-it.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-ja.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-ko.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-kz.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-lt.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-lv.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-ms.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-nl.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-no.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-pl.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-pt-BR.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-ro.js
+  6:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-ru.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-sk.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-sl.js
+  4:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-sq.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-sr-SR.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-sr.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-sv.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-ta.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-th.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-tr.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-uk.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-vi.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-zh-CN.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-zh-HK.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/i18n/jquery.ui.datepicker-zh-TW.js
+  3:1  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery-ui-1.8.5.custom.js
+     10:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+    307:5    warning  'jQuery' is not defined                                          no-undef
+    317:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+    513:5    warning  Unexpected newline between object and [ of property access       no-unexpected-multiline
+    556:5    warning  'jQuery' is not defined                                          no-undef
+    569:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+    569:15   warning  'undefined' is defined but never used                            no-unused-vars
+    696:27   warning  'event' is defined but never used                                no-unused-vars
+    701:24   warning  'event' is defined but never used                                no-unused-vars
+    702:23   warning  'event' is defined but never used                                no-unused-vars
+    703:23   warning  'event' is defined but never used                                no-unused-vars
+    704:26   warning  'event' is defined but never used                                no-unused-vars
+    707:4    warning  'jQuery' is not defined                                          no-undef
+    717:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+    717:15   warning  'undefined' is defined but never used                            no-unused-vars
+    958:4    warning  'jQuery' is not defined                                          no-undef
+    973:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+    973:15   warning  'undefined' is defined but never used                            no-unused-vars
+   1321:7    warning  'o' is assigned a value but never used                           no-unused-vars
+   1408:20   warning  'event' is defined but never used                                no-unused-vars
+   1480:7    warning  'checkPos' is assigned a value but never used                    no-unused-vars
+   1489:35   warning  'i' is defined but never used                                    no-unused-vars
+   1556:5    warning  Unnecessary semicolon                                            no-extra-semi
+   1564:18   warning  'event' is defined but never used                                no-unused-vars
+   1564:25   warning  'ui' is defined but never used                                   no-unused-vars
+   1569:17   warning  'event' is defined but never used                                no-unused-vars
+   1569:24   warning  'ui' is defined but never used                                   no-unused-vars
+   1576:18   warning  'event' is defined but never used                                no-unused-vars
+   1576:25   warning  'ui' is defined but never used                                   no-unused-vars
+   1588:17   warning  'event' is defined but never used                                no-unused-vars
+   1588:24   warning  'ui' is defined but never used                                   no-unused-vars
+   1606:18   warning  'event' is defined but never used                                no-unused-vars
+   1606:25   warning  'ui' is defined but never used                                   no-unused-vars
+   1610:24   warning  'ui' is defined but never used                                   no-unused-vars
+   1655:18   warning  'event' is defined but never used                                no-unused-vars
+   1655:25   warning  'ui' is defined but never used                                   no-unused-vars
+   1704:9    warning  'ts' is already defined                                          no-redeclare
+   1705:9    warning  'bs' is already defined                                          no-redeclare
+   1706:9    warning  'ls' is already defined                                          no-redeclare
+   1707:9    warning  'rs' is already defined                                          no-redeclare
+   1718:4    warning  Unnecessary semicolon                                            no-extra-semi
+   1724:18   warning  'event' is defined but never used                                no-unused-vars
+   1724:25   warning  'ui' is defined but never used                                   no-unused-vars
+   1755:4    warning  'jQuery' is not defined                                          no-undef
+   1771:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+   1771:15   warning  'undefined' is defined but never used                            no-unused-vars
+   1921:4    warning  Unreachable code                                                 no-unreachable
+   1927:4    warning  Unreachable code                                                 no-unreachable
+   1933:4    warning  Unreachable code                                                 no-unreachable
+   1944:4    warning  Unreachable code                                                 no-unreachable
+   1947:4    warning  Unreachable code                                                 no-unreachable
+   1967:132  warning  Unnecessary semicolon                                            no-extra-semi
+   2040:4    warning  'jQuery' is not defined                                          no-undef
+   2055:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+   2055:15   warning  'undefined' is defined but never used                            no-unused-vars
+   2152:6    warning  Unnecessary semicolon                                            no-extra-semi
+   2313:1    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   2314:1    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   2324:25   warning  'o' is assigned a value but never used                           no-unused-vars
+   2324:43   warning  'props' is assigned a value but never used                       no-unused-vars
+   2325:4    warning  'self' is assigned a value but never used                        no-unused-vars
+   2332:52   warning  'ie6' is assigned a value but never used                         no-unused-vars
+   2332:99   warning  'csdif' is assigned a value but never used                       no-unused-vars
+   2393:7    warning  'o' is assigned a value but never used                           no-unused-vars
+   2401:31   warning  'event' is defined but never used                                no-unused-vars
+   2403:7    warning  'o' is assigned a value but never used                           no-unused-vars
+   2422:7    warning  'el' is assigned a value but never used                          no-unused-vars
+   2422:43   warning  'pRatio' is assigned a value but never used                      no-unused-vars
+   2449:7    warning  'o' is assigned a value but never used                           no-unused-vars
+   2475:4    warning  Unnecessary semicolon                                            no-extra-semi
+   2512:26   warning  'dy' is defined but never used                                   no-unused-vars
+   2515:26   warning  'dy' is defined but never used                                   no-unused-vars
+   2516:8    warning  'o' is assigned a value but never used                           no-unused-vars
+   2520:8    warning  'o' is assigned a value but never used                           no-unused-vars
+   2571:19   warning  'event' is defined but never used                                no-unused-vars
+   2571:26   warning  'ui' is defined but never used                                   no-unused-vars
+   2629:18   warning  'event' is defined but never used                                no-unused-vars
+   2629:25   warning  'ui' is defined but never used                                   no-unused-vars
+   2655:24   warning  'ui' is defined but never used                                   no-unused-vars
+   2694:18   warning  'event' is defined but never used                                no-unused-vars
+   2694:25   warning  'ui' is defined but never used                                   no-unused-vars
+   2729:26   warning  'ui' is defined but never used                                   no-unused-vars
+   2731:5    warning  'ps' is assigned a value but never used                          no-unused-vars
+   2731:57   warning  'cs' is assigned a value but never used                          no-unused-vars
+   2755:2    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   2770:17   warning  'event' is defined but never used                                no-unused-vars
+   2770:24   warning  'ui' is defined but never used                                   no-unused-vars
+   2771:59   warning  'cp' is assigned a value but never used                          no-unused-vars
+   2787:18   warning  'event' is defined but never used                                no-unused-vars
+   2787:25   warning  'ui' is defined but never used                                   no-unused-vars
+   2801:19   warning  'event' is defined but never used                                no-unused-vars
+   2801:26   warning  'ui' is defined but never used                                   no-unused-vars
+   2802:41   warning  'o' is assigned a value but never used                           no-unused-vars
+   2806:17   warning  'event' is defined but never used                                no-unused-vars
+   2806:24   warning  'ui' is defined but never used                                   no-unused-vars
+   2807:41   warning  'o' is assigned a value but never used                           no-unused-vars
+   2815:26   warning  'ui' is defined but never used                                   no-unused-vars
+   2816:142  warning  'ratio' is assigned a value but never used                       no-unused-vars
+   2852:4    warning  'jQuery' is not defined                                          no-undef
+   2867:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+   2867:15   warning  'undefined' is defined but never used                            no-unused-vars
+   3006:22   warning  'tmp' is already defined                                         no-redeclare
+   3084:7    warning  'options' is assigned a value but never used                     no-unused-vars
+   3118:4    warning  'jQuery' is not defined                                          no-undef
+   3133:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+   3133:15   warning  'undefined' is defined but never used                            no-unused-vars
+   3163:7    warning  'o' is assigned a value but never used                           no-unused-vars
+   3199:5    warning  Unexpected newline between object and [ of property access       no-unexpected-multiline
+   3218:40   warning  'nodes' is assigned a value but never used                       no-unused-vars
+   3338:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   3638:7    warning  'self' is assigned a value but never used                        no-unused-vars
+   3651:6    warning  Unnecessary semicolon                                            no-extra-semi
+   3652:5    warning  Unnecessary semicolon                                            no-extra-semi
+   3657:12   warning  'i' is already defined                                           no-redeclare
+   3661:4    warning  Unnecessary semicolon                                            no-extra-semi
+   3676:5    warning  Unnecessary semicolon                                            no-extra-semi
+   3678:4    warning  Unnecessary semicolon                                            no-extra-semi
+   3687:7    warning  'self' is assigned a value but never used                        no-unused-vars
+   3700:6    warning  Unnecessary semicolon                                            no-extra-semi
+   3701:5    warning  Unnecessary semicolon                                            no-extra-semi
+   3704:12   warning  'i' is already defined                                           no-redeclare
+   3708:13   warning  'j' is already defined                                           no-redeclare
+   3719:5    warning  Unnecessary semicolon                                            no-extra-semi
+   3720:4    warning  Unnecessary semicolon                                            no-extra-semi
+   3744:4    warning  Unnecessary semicolon                                            no-extra-semi
+   3749:13   warning  'i' is already defined                                           no-redeclare
+   3750:9    warning  'p' is already defined                                           no-redeclare
+   3755:5    warning  Unnecessary semicolon                                            no-extra-semi
+   3786:178  warning  Unnecessary semicolon                                            no-extra-semi
+   3787:175  warning  Unnecessary semicolon                                            no-extra-semi
+   3995:7    warning  'o' is assigned a value but never used                           no-unused-vars
+   4095:29   warning  'self' is assigned a value but never used                        no-unused-vars
+   4115:13   warning  'i' is already defined                                           no-redeclare
+   4120:5    warning  Unnecessary semicolon                                            no-extra-semi
+   4121:4    warning  Unnecessary semicolon                                            no-extra-semi
+   4124:12   warning  'i' is already defined                                           no-redeclare
+   4141:14   warning  'i' is already defined                                           no-redeclare
+   4141:93   warning  Unnecessary semicolon                                            no-extra-semi
+   4155:13   warning  'i' is already defined                                           no-redeclare
+   4155:92   warning  Unnecessary semicolon                                            no-extra-semi
+   4189:4    warning  'jQuery' is not defined                                          no-undef
+   4203:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+   4203:15   warning  'undefined' is defined but never used                            no-unused-vars
+   4395:5    warning  Unexpected newline between object and [ of property access       no-unexpected-multiline
+   4558:7    warning  'toShow' is already defined                                      no-redeclare
+   4559:4    warning  'toHide' is already defined                                      no-redeclare
+   4560:4    warning  'data' is already defined                                        no-redeclare
+   4787:5    warning  'jQuery' is not defined                                          no-undef
+   4802:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+   4802:15   warning  'undefined' is defined but never used                            no-unused-vars
+   4858:5    warning  Expected a 'break' statement before 'case'                       no-fallthrough
+   4960:21   warning  'event' is defined but never used                                no-unused-vars
+   4960:28   warning  'ui' is defined but never used                                   no-unused-vars
+   4975:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   5160:4    warning  'jQuery' is not defined                                          no-undef
+   5317:5    warning  'result' is not defined                                          no-undef
+   5324:9    warning  'result' is not defined                                          no-undef
+   5325:5    warning  'result' is not defined                                          no-undef
+   5327:25   warning  'result' is not defined                                          no-undef
+   5342:3    warning  'jQuery' is not defined                                          no-undef
+   5356:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+   5356:15   warning  'undefined' is defined but never used                            no-unused-vars
+   5714:4    warning  'jQuery' is not defined                                          no-undef
+   5733:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+   5816:4    warning  'uiDialogContent' is assigned a value but never used             no-unused-vars
+   5859:4    warning  'uiDialogTitlebarCloseText' is assigned a value but never used   no-unused-vars
+   5867:4    warning  'uiDialogTitle' is assigned a value but never used               no-unused-vars
+   6551:3    warning  'jQuery' is not defined                                          no-undef
+   6566:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+   6566:15   warning  'undefined' is defined but never used                            no-unused-vars
+   6868:25   warning  'event' is defined but never used                                no-unused-vars
+   7177:35   warning  'j' is defined but never used                                    no-unused-vars
+   7231:3    warning  'jQuery' is not defined                                          no-undef
+   7245:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+   7430:66   warning  'i' is defined but never used                                    no-unused-vars
+   7560:32   warning  '$show' is defined but never used                                no-unused-vars
+   7746:48   warning  'i' is defined but never used                                    no-unused-vars
+   7780:36   warning  'i' is defined but never used                                    no-unused-vars
+   7783:17   warning  'i' is defined but never used                                    no-unused-vars
+   7801:49   warning  'i' is defined but never used                                    no-unused-vars
+   7811:7    warning  'self' is assigned a value but never used                        no-unused-vars
+   7877:17   warning  Empty block statement                                            no-empty
+   7879:29   warning  'e' is defined but never used                                    no-unused-vars
+   7891:17   warning  Empty block statement                                            no-empty
+   7966:16   warning  'e' is defined but never used                                    no-unused-vars
+   7967:5    warning  't' is not defined                                               no-undef
+   7989:5    warning  'jQuery' is not defined                                          no-undef
+   8002:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+   8498:7    warning  Unreachable code                                                 no-unreachable
+   8732:1    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   8863:7    warning  'inst' is assigned a value but never used                        no-unused-vars
+   9021:11   warning  'date' is already defined                                        no-redeclare
+   9050:13   warning  Unexpected constant condition                                    no-constant-condition
+   9052:7    warning  'date' is already defined                                        no-redeclare
+   9410:7    warning  'dayNamesShort' is assigned a value but never used               no-unused-vars
+   9417:7    warning  'calculateWeek' is assigned a value but never used               no-unused-vars
+   9462:15   warning  'dow' is already defined                                         no-redeclare
+   9527:3    warning  Mixed spaces and tabs                                            no-mixed-spaces-and-tabs
+   9676:2    warning  Unnecessary semicolon                                            no-extra-semi
+   9679:10   warning  'isArray' is defined but never used                              no-unused-vars
+   9681:53   warning  Unnecessary escape character: \A                                 no-useless-escape
+   9682:2    warning  Unnecessary semicolon                                            no-extra-semi
+   9721:4    warning  'jQuery' is not defined                                          no-undef
+   9735:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+   9815:5    warning  'jQuery' is not defined                                          no-undef
+   9825:1    warning  Unnecessary semicolon                                            no-extra-semi
+   9825:2    warning  'jQuery' is not defined                                          no-undef
+   9825:33   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+   9866:7    warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   9870:7    warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   9870:46   warning  Unnecessary escape character: \%                                 no-useless-escape
+   9870:76   warning  Unnecessary escape character: \%                                 no-useless-escape
+   9870:106  warning  Unnecessary escape character: \%                                 no-useless-escape
+   9874:7    warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   9878:7    warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   9882:7    warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   9900:13   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   9903:2    warning  Unnecessary semicolon                                            no-extra-semi
+   9989:30   warning  Unnecessary escape character: \-                                 no-useless-escape
+  10148:4    warning  Unnecessary semicolon                                            no-extra-semi
+  10154:4    warning  Unnecessary semicolon                                            no-extra-semi
+  10215:4    warning  'unit' is not defined                                            no-undef
+  10216:8    warning  'unit' is not defined                                            no-undef
+  10216:32   warning  'unit' is not defined                                            no-undef
+  10216:51   warning  'unit' is not defined                                            no-undef
+  10258:27   warning  'options' is defined but never used                              no-unused-vars
+  10258:36   warning  'speed' is defined but never used                                no-unused-vars
+  10258:43   warning  'callback' is defined but never used                             no-unused-vars
+  10444:35   warning  's' is already defined                                           no-redeclare
+  10445:12   warning  's' is already defined                                           no-redeclare
+  10451:35   warning  's' is already defined                                           no-redeclare
+  10452:12   warning  's' is already defined                                           no-redeclare
+  10458:35   warning  's' is already defined                                           no-redeclare
+  10459:12   warning  's' is already defined                                           no-redeclare
+  10529:4    warning  'jQuery' is not defined                                          no-undef
+  10542:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+  10542:15   warning  'undefined' is defined but never used                            no-unused-vars
+  10578:4    warning  'jQuery' is not defined                                          no-undef
+  10591:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+  10591:15   warning  'undefined' is defined but never used                            no-unused-vars
+  10613:7    warning  'distance' is already defined                                    no-redeclare
+  10625:4    warning  Unnecessary semicolon                                            no-extra-semi
+  10632:4    warning  Unnecessary semicolon                                            no-extra-semi
+  10634:8    warning  'animation' is already defined                                   no-redeclare
+  10642:8    warning  'animation1' is already defined                                  no-redeclare
+  10642:25   warning  'animation2' is already defined                                  no-redeclare
+  10649:4    warning  Unnecessary semicolon                                            no-extra-semi
+  10656:4    warning  'jQuery' is not defined                                          no-undef
+  10669:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+  10669:15   warning  'undefined' is defined but never used                            no-unused-vars
+  10710:4    warning  'jQuery' is not defined                                          no-undef
+  10723:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+  10723:15   warning  'undefined' is defined but never used                            no-unused-vars
+  10760:4    warning  'jQuery' is not defined                                          no-undef
+  10773:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+  10773:15   warning  'undefined' is defined but never used                            no-unused-vars
+  10839:4    warning  'jQuery' is not defined                                          no-undef
+  10852:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+  10852:15   warning  'undefined' is defined but never used                            no-unused-vars
+  10871:4    warning  'jQuery' is not defined                                          no-undef
+  10884:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+  10884:15   warning  'undefined' is defined but never used                            no-unused-vars
+  10927:4    warning  'jQuery' is not defined                                          no-undef
+  10940:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+  10940:15   warning  'undefined' is defined but never used                            no-unused-vars
+  10977:4    warning  'jQuery' is not defined                                          no-undef
+  10990:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+  10990:15   warning  'undefined' is defined but never used                            no-unused-vars
+  10996:4    warning  'times' is not defined                                           no-undef
+  10997:4    warning  'duration' is not defined                                        no-undef
+  10998:4    warning  'isVisible' is not defined                                       no-undef
+  10999:4    warning  'animateTo' is not defined                                       no-undef
+  11001:8    warning  'isVisible' is not defined                                       no-undef
+  11003:4    warning  'animateTo' is not defined                                       no-undef
+  11006:26   warning  'isVisible' is not defined                                       no-undef
+  11006:60   warning  'isVisible' is not defined                                       no-undef
+  11007:4    warning  'times' is not defined                                           no-undef
+  11010:23   warning  'times' is not defined                                           no-undef
+  11011:28   warning  'animateTo' is not defined                                       no-undef
+  11011:41   warning  'duration' is not defined                                        no-undef
+  11012:4    warning  'animateTo' is not defined                                       no-undef
+  11012:17   warning  'animateTo' is not defined                                       no-undef
+  11015:27   warning  'animateTo' is not defined                                       no-undef
+  11015:40   warning  'duration' is not defined                                        no-undef
+  11016:8    warning  'animateTo' is not defined                                       no-undef
+  11028:4    warning  'jQuery' is not defined                                          no-undef
+  11041:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+  11041:15   warning  'undefined' is defined but never used                            no-unused-vars
+  11096:65   warning  Unnecessary semicolon                                            no-extra-semi
+  11097:65   warning  Unnecessary semicolon                                            no-extra-semi
+  11098:4    warning  Unnecessary semicolon                                            no-extra-semi
+  11137:4    warning  Unnecessary semicolon                                            no-extra-semi
+  11147:5    warning  Unnecessary semicolon                                            no-extra-semi
+  11152:5    warning  Unnecessary semicolon                                            no-extra-semi
+  11153:4    warning  Unnecessary semicolon                                            no-extra-semi
+  11159:5    warning  Unnecessary semicolon                                            no-extra-semi
+  11160:4    warning  Unnecessary semicolon                                            no-extra-semi
+  11171:5    warning  'child' is not defined                                           no-undef
+  11172:33   warning  'child' is not defined                                           no-undef
+  11173:31   warning  'child' is not defined                                           no-undef
+  11173:54   warning  'child' is not defined                                           no-undef
+  11174:5    warning  'child' is not defined                                           no-undef
+  11175:5    warning  'child' is not defined                                           no-undef
+  11177:6    warning  'child' is not defined                                           no-undef
+  11177:43   warning  'child' is not defined                                           no-undef
+  11177:73   warning  'child' is not defined                                           no-undef
+  11178:6    warning  'child' is not defined                                           no-undef
+  11178:41   warning  'child' is not defined                                           no-undef
+  11178:69   warning  'child' is not defined                                           no-undef
+  11179:6    warning  Unnecessary semicolon                                            no-extra-semi
+  11181:6    warning  'child' is not defined                                           no-undef
+  11181:43   warning  'child' is not defined                                           no-undef
+  11181:73   warning  'child' is not defined                                           no-undef
+  11182:6    warning  'child' is not defined                                           no-undef
+  11182:41   warning  'child' is not defined                                           no-undef
+  11182:69   warning  'child' is not defined                                           no-undef
+  11183:6    warning  Unnecessary semicolon                                            no-extra-semi
+  11184:5    warning  'child' is not defined                                           no-undef
+  11184:15   warning  'child' is not defined                                           no-undef
+  11185:5    warning  'child' is not defined                                           no-undef
+  11185:19   warning  'child' is not defined                                           no-undef
+  11186:37   warning  'child' is not defined                                           no-undef
+  11189:4    warning  Unnecessary semicolon                                            no-extra-semi
+  11206:4    warning  'jQuery' is not defined                                          no-undef
+  11219:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+  11219:15   warning  'undefined' is defined but never used                            no-unused-vars
+  11229:7    warning  'mode' is assigned a value but never used                        no-unused-vars
+  11251:4    warning  Unnecessary semicolon                                            no-extra-semi
+  11263:4    warning  'jQuery' is not defined                                          no-undef
+  11276:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+  11276:15   warning  'undefined' is defined but never used                            no-unused-vars
+  11313:4    warning  'jQuery' is not defined                                          no-undef
+  11326:15   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+  11326:15   warning  'undefined' is defined but never used                            no-unused-vars
+  11358:4    warning  'jQuery' is not defined                                          no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.effects.blind.js
+  13:15  warning  Shadowing of global property 'undefined'  no-shadow-restricted-names
+  13:15  warning  'undefined' is defined but never used     no-unused-vars
+  49:4   warning  'jQuery' is not defined                   no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.effects.bounce.js
+  13:15  warning  Shadowing of global property 'undefined'  no-shadow-restricted-names
+  13:15  warning  'undefined' is defined but never used     no-unused-vars
+  35:7   warning  'distance' is already defined             no-redeclare
+  47:4   warning  Unnecessary semicolon                     no-extra-semi
+  54:4   warning  Unnecessary semicolon                     no-extra-semi
+  56:8   warning  'animation' is already defined            no-redeclare
+  64:8   warning  'animation1' is already defined           no-redeclare
+  64:25  warning  'animation2' is already defined           no-redeclare
+  71:4   warning  Unnecessary semicolon                     no-extra-semi
+  78:4   warning  'jQuery' is not defined                   no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.effects.clip.js
+  13:15  warning  Shadowing of global property 'undefined'  no-shadow-restricted-names
+  13:15  warning  'undefined' is defined but never used     no-unused-vars
+  54:4   warning  'jQuery' is not defined                   no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.effects.core.js
+   10:1    warning  Unnecessary semicolon                                            no-extra-semi
+   10:2    warning  'jQuery' is not defined                                          no-undef
+   10:33   warning  Shadowing of global property 'undefined'                         no-shadow-restricted-names
+   51:7    warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   55:7    warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   55:46   warning  Unnecessary escape character: \%                                 no-useless-escape
+   55:76   warning  Unnecessary escape character: \%                                 no-useless-escape
+   55:106  warning  Unnecessary escape character: \%                                 no-useless-escape
+   59:7    warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   63:7    warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   67:7    warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   85:13   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   88:2    warning  Unnecessary semicolon                                            no-extra-semi
+  174:30   warning  Unnecessary escape character: \-                                 no-useless-escape
+  333:4    warning  Unnecessary semicolon                                            no-extra-semi
+  339:4    warning  Unnecessary semicolon                                            no-extra-semi
+  400:4    warning  'unit' is not defined                                            no-undef
+  401:8    warning  'unit' is not defined                                            no-undef
+  401:32   warning  'unit' is not defined                                            no-undef
+  401:51   warning  'unit' is not defined                                            no-undef
+  443:27   warning  'options' is defined but never used                              no-unused-vars
+  443:36   warning  'speed' is defined but never used                                no-unused-vars
+  443:43   warning  'callback' is defined but never used                             no-unused-vars
+  629:35   warning  's' is already defined                                           no-redeclare
+  630:12   warning  's' is already defined                                           no-redeclare
+  636:35   warning  's' is already defined                                           no-redeclare
+  637:12   warning  's' is already defined                                           no-redeclare
+  643:35   warning  's' is already defined                                           no-redeclare
+  644:12   warning  's' is already defined                                           no-redeclare
+  714:4    warning  'jQuery' is not defined                                          no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.effects.drop.js
+  13:15  warning  Shadowing of global property 'undefined'  no-shadow-restricted-names
+  13:15  warning  'undefined' is defined but never used     no-unused-vars
+  50:4   warning  'jQuery' is not defined                   no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.effects.explode.js
+  13:15  warning  Shadowing of global property 'undefined'  no-shadow-restricted-names
+  13:15  warning  'undefined' is defined but never used     no-unused-vars
+  79:4   warning  'jQuery' is not defined                   no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.effects.fade.js
+  13:15  warning  Shadowing of global property 'undefined'  no-shadow-restricted-names
+  13:15  warning  'undefined' is defined but never used     no-unused-vars
+  32:4   warning  'jQuery' is not defined                   no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.effects.fold.js
+  13:15  warning  Shadowing of global property 'undefined'  no-shadow-restricted-names
+  13:15  warning  'undefined' is defined but never used     no-unused-vars
+  56:4   warning  'jQuery' is not defined                   no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.effects.highlight.js
+  13:15  warning  Shadowing of global property 'undefined'  no-shadow-restricted-names
+  13:15  warning  'undefined' is defined but never used     no-unused-vars
+  50:4   warning  'jQuery' is not defined                   no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.effects.pulsate.js
+  13:15  warning  Shadowing of global property 'undefined'  no-shadow-restricted-names
+  13:15  warning  'undefined' is defined but never used     no-unused-vars
+  19:4   warning  'times' is not defined                    no-undef
+  20:4   warning  'duration' is not defined                 no-undef
+  21:4   warning  'isVisible' is not defined                no-undef
+  22:4   warning  'animateTo' is not defined                no-undef
+  24:8   warning  'isVisible' is not defined                no-undef
+  26:4   warning  'animateTo' is not defined                no-undef
+  29:26  warning  'isVisible' is not defined                no-undef
+  29:60  warning  'isVisible' is not defined                no-undef
+  30:4   warning  'times' is not defined                    no-undef
+  33:23  warning  'times' is not defined                    no-undef
+  34:28  warning  'animateTo' is not defined                no-undef
+  34:41  warning  'duration' is not defined                 no-undef
+  35:4   warning  'animateTo' is not defined                no-undef
+  35:17  warning  'animateTo' is not defined                no-undef
+  38:27  warning  'animateTo' is not defined                no-undef
+  38:40  warning  'duration' is not defined                 no-undef
+  39:8   warning  'animateTo' is not defined                no-undef
+  51:4   warning  'jQuery' is not defined                   no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.effects.scale.js
+   13:15  warning  Shadowing of global property 'undefined'  no-shadow-restricted-names
+   13:15  warning  'undefined' is defined but never used     no-unused-vars
+   68:65  warning  Unnecessary semicolon                     no-extra-semi
+   69:65  warning  Unnecessary semicolon                     no-extra-semi
+   70:4   warning  Unnecessary semicolon                     no-extra-semi
+  109:4   warning  Unnecessary semicolon                     no-extra-semi
+  119:5   warning  Unnecessary semicolon                     no-extra-semi
+  124:5   warning  Unnecessary semicolon                     no-extra-semi
+  125:4   warning  Unnecessary semicolon                     no-extra-semi
+  131:5   warning  Unnecessary semicolon                     no-extra-semi
+  132:4   warning  Unnecessary semicolon                     no-extra-semi
+  143:5   warning  'child' is not defined                    no-undef
+  144:33  warning  'child' is not defined                    no-undef
+  145:31  warning  'child' is not defined                    no-undef
+  145:54  warning  'child' is not defined                    no-undef
+  146:5   warning  'child' is not defined                    no-undef
+  147:5   warning  'child' is not defined                    no-undef
+  149:6   warning  'child' is not defined                    no-undef
+  149:43  warning  'child' is not defined                    no-undef
+  149:73  warning  'child' is not defined                    no-undef
+  150:6   warning  'child' is not defined                    no-undef
+  150:41  warning  'child' is not defined                    no-undef
+  150:69  warning  'child' is not defined                    no-undef
+  151:6   warning  Unnecessary semicolon                     no-extra-semi
+  153:6   warning  'child' is not defined                    no-undef
+  153:43  warning  'child' is not defined                    no-undef
+  153:73  warning  'child' is not defined                    no-undef
+  154:6   warning  'child' is not defined                    no-undef
+  154:41  warning  'child' is not defined                    no-undef
+  154:69  warning  'child' is not defined                    no-undef
+  155:6   warning  Unnecessary semicolon                     no-extra-semi
+  156:5   warning  'child' is not defined                    no-undef
+  156:15  warning  'child' is not defined                    no-undef
+  157:5   warning  'child' is not defined                    no-undef
+  157:19  warning  'child' is not defined                    no-undef
+  158:37  warning  'child' is not defined                    no-undef
+  161:4   warning  Unnecessary semicolon                     no-extra-semi
+  178:4   warning  'jQuery' is not defined                   no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.effects.shake.js
+  13:15  warning  Shadowing of global property 'undefined'   no-shadow-restricted-names
+  13:15  warning  'undefined' is defined but never used      no-unused-vars
+  23:7   warning  'mode' is assigned a value but never used  no-unused-vars
+  45:4   warning  Unnecessary semicolon                      no-extra-semi
+  57:4   warning  'jQuery' is not defined                    no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.effects.slide.js
+  13:15  warning  Shadowing of global property 'undefined'  no-shadow-restricted-names
+  13:15  warning  'undefined' is defined but never used     no-unused-vars
+  50:4   warning  'jQuery' is not defined                   no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.effects.transfer.js
+  13:15  warning  Shadowing of global property 'undefined'  no-shadow-restricted-names
+  13:15  warning  'undefined' is defined but never used     no-unused-vars
+  45:4   warning  'jQuery' is not defined                   no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.ui.accordion.js
+   14:15  warning  Shadowing of global property 'undefined'                    no-shadow-restricted-names
+   14:15  warning  'undefined' is defined but never used                       no-unused-vars
+  206:5   warning  Unexpected newline between object and [ of property access  no-unexpected-multiline
+  369:7   warning  'toShow' is already defined                                 no-redeclare
+  370:4   warning  'toHide' is already defined                                 no-redeclare
+  371:4   warning  'data' is already defined                                   no-redeclare
+  598:5   warning  'jQuery' is not defined                                     no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.ui.autocomplete.js
+   15:15  warning  Shadowing of global property 'undefined'    no-shadow-restricted-names
+   15:15  warning  'undefined' is defined but never used       no-unused-vars
+   71:5   warning  Expected a 'break' statement before 'case'  no-fallthrough
+  173:21  warning  'event' is defined but never used           no-unused-vars
+  173:28  warning  'ui' is defined but never used              no-unused-vars
+  188:3   warning  Mixed spaces and tabs                       no-mixed-spaces-and-tabs
+  373:4   warning  'jQuery' is not defined                     no-undef
+  530:5   warning  'result' is not defined                     no-undef
+  537:9   warning  'result' is not defined                     no-undef
+  538:5   warning  'result' is not defined                     no-undef
+  540:25  warning  'result' is not defined                     no-undef
+  555:3   warning  'jQuery' is not defined                     no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.ui.button.js
+   14:15  warning  Shadowing of global property 'undefined'  no-shadow-restricted-names
+   14:15  warning  'undefined' is defined but never used     no-unused-vars
+  372:4   warning  'jQuery' is not defined                   no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.ui.core.js
+   10:15  warning  Shadowing of global property 'undefined'  no-shadow-restricted-names
+  307:5   warning  'jQuery' is not defined                   no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.ui.datepicker.js
+    13:15  warning  Shadowing of global property 'undefined'            no-shadow-restricted-names
+   509:7   warning  Unreachable code                                    no-unreachable
+   743:1   warning  Mixed spaces and tabs                               no-mixed-spaces-and-tabs
+   874:7   warning  'inst' is assigned a value but never used           no-unused-vars
+  1032:11  warning  'date' is already defined                           no-redeclare
+  1061:13  warning  Unexpected constant condition                       no-constant-condition
+  1063:7   warning  'date' is already defined                           no-redeclare
+  1421:7   warning  'dayNamesShort' is assigned a value but never used  no-unused-vars
+  1428:7   warning  'calculateWeek' is assigned a value but never used  no-unused-vars
+  1473:15  warning  'dow' is already defined                            no-redeclare
+  1538:3   warning  Mixed spaces and tabs                               no-mixed-spaces-and-tabs
+  1687:2   warning  Unnecessary semicolon                               no-extra-semi
+  1690:10  warning  'isArray' is defined but never used                 no-unused-vars
+  1692:53  warning  Unnecessary escape character: \A                    no-useless-escape
+  1693:2   warning  Unnecessary semicolon                               no-extra-semi
+  1732:4   warning  'jQuery' is not defined                             no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.ui.dialog.js
+   19:15  warning  Shadowing of global property 'undefined'                        no-shadow-restricted-names
+  102:4   warning  'uiDialogContent' is assigned a value but never used            no-unused-vars
+  145:4   warning  'uiDialogTitlebarCloseText' is assigned a value but never used  no-unused-vars
+  153:4   warning  'uiDialogTitle' is assigned a value but never used              no-unused-vars
+  837:3   warning  'jQuery' is not defined                                         no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.ui.draggable.js
+   15:15  warning  Shadowing of global property 'undefined'       no-shadow-restricted-names
+   15:15  warning  'undefined' is defined but never used          no-unused-vars
+  363:7   warning  'o' is assigned a value but never used         no-unused-vars
+  450:20  warning  'event' is defined but never used              no-unused-vars
+  522:7   warning  'checkPos' is assigned a value but never used  no-unused-vars
+  531:35  warning  'i' is defined but never used                  no-unused-vars
+  598:5   warning  Unnecessary semicolon                          no-extra-semi
+  606:18  warning  'event' is defined but never used              no-unused-vars
+  606:25  warning  'ui' is defined but never used                 no-unused-vars
+  611:17  warning  'event' is defined but never used              no-unused-vars
+  611:24  warning  'ui' is defined but never used                 no-unused-vars
+  618:18  warning  'event' is defined but never used              no-unused-vars
+  618:25  warning  'ui' is defined but never used                 no-unused-vars
+  630:17  warning  'event' is defined but never used              no-unused-vars
+  630:24  warning  'ui' is defined but never used                 no-unused-vars
+  648:18  warning  'event' is defined but never used              no-unused-vars
+  648:25  warning  'ui' is defined but never used                 no-unused-vars
+  652:24  warning  'ui' is defined but never used                 no-unused-vars
+  697:18  warning  'event' is defined but never used              no-unused-vars
+  697:25  warning  'ui' is defined but never used                 no-unused-vars
+  746:9   warning  'ts' is already defined                        no-redeclare
+  747:9   warning  'bs' is already defined                        no-redeclare
+  748:9   warning  'ls' is already defined                        no-redeclare
+  749:9   warning  'rs' is already defined                        no-redeclare
+  760:4   warning  Unnecessary semicolon                          no-extra-semi
+  766:18  warning  'event' is defined but never used              no-unused-vars
+  766:25  warning  'ui' is defined but never used                 no-unused-vars
+  797:4   warning  'jQuery' is not defined                        no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.ui.droppable.js
+   16:15   warning  Shadowing of global property 'undefined'  no-shadow-restricted-names
+   16:15   warning  'undefined' is defined but never used     no-unused-vars
+  166:4    warning  Unreachable code                          no-unreachable
+  172:4    warning  Unreachable code                          no-unreachable
+  178:4    warning  Unreachable code                          no-unreachable
+  189:4    warning  Unreachable code                          no-unreachable
+  192:4    warning  Unreachable code                          no-unreachable
+  212:132  warning  Unnecessary semicolon                     no-extra-semi
+  285:4    warning  'jQuery' is not defined                   no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.ui.mouse.js
+   13:15  warning  Shadowing of global property 'undefined'  no-shadow-restricted-names
+   13:15  warning  'undefined' is defined but never used     no-unused-vars
+  140:27  warning  'event' is defined but never used         no-unused-vars
+  145:24  warning  'event' is defined but never used         no-unused-vars
+  146:23  warning  'event' is defined but never used         no-unused-vars
+  147:23  warning  'event' is defined but never used         no-unused-vars
+  148:26  warning  'event' is defined but never used         no-unused-vars
+  151:4   warning  'jQuery' is not defined                   no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.ui.position.js
+   10:15  warning  Shadowing of global property 'undefined'  no-shadow-restricted-names
+   10:15  warning  'undefined' is defined but never used     no-unused-vars
+  251:4   warning  'jQuery' is not defined                   no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.ui.progressbar.js
+  14:15  warning  Shadowing of global property 'undefined'  no-shadow-restricted-names
+  94:5   warning  'jQuery' is not defined                   no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.ui.resizable.js
+   15:15   warning  Shadowing of global property 'undefined'     no-shadow-restricted-names
+   15:15   warning  'undefined' is defined but never used        no-unused-vars
+  112:6    warning  Unnecessary semicolon                        no-extra-semi
+  273:1    warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  274:1    warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  284:25   warning  'o' is assigned a value but never used       no-unused-vars
+  284:43   warning  'props' is assigned a value but never used   no-unused-vars
+  285:4    warning  'self' is assigned a value but never used    no-unused-vars
+  292:52   warning  'ie6' is assigned a value but never used     no-unused-vars
+  292:99   warning  'csdif' is assigned a value but never used   no-unused-vars
+  353:7    warning  'o' is assigned a value but never used       no-unused-vars
+  361:31   warning  'event' is defined but never used            no-unused-vars
+  363:7    warning  'o' is assigned a value but never used       no-unused-vars
+  382:7    warning  'el' is assigned a value but never used      no-unused-vars
+  382:43   warning  'pRatio' is assigned a value but never used  no-unused-vars
+  409:7    warning  'o' is assigned a value but never used       no-unused-vars
+  435:4    warning  Unnecessary semicolon                        no-extra-semi
+  472:26   warning  'dy' is defined but never used               no-unused-vars
+  475:26   warning  'dy' is defined but never used               no-unused-vars
+  476:8    warning  'o' is assigned a value but never used       no-unused-vars
+  480:8    warning  'o' is assigned a value but never used       no-unused-vars
+  531:19   warning  'event' is defined but never used            no-unused-vars
+  531:26   warning  'ui' is defined but never used               no-unused-vars
+  589:18   warning  'event' is defined but never used            no-unused-vars
+  589:25   warning  'ui' is defined but never used               no-unused-vars
+  615:24   warning  'ui' is defined but never used               no-unused-vars
+  654:18   warning  'event' is defined but never used            no-unused-vars
+  654:25   warning  'ui' is defined but never used               no-unused-vars
+  689:26   warning  'ui' is defined but never used               no-unused-vars
+  691:5    warning  'ps' is assigned a value but never used      no-unused-vars
+  691:57   warning  'cs' is assigned a value but never used      no-unused-vars
+  715:2    warning  Mixed spaces and tabs                        no-mixed-spaces-and-tabs
+  730:17   warning  'event' is defined but never used            no-unused-vars
+  730:24   warning  'ui' is defined but never used               no-unused-vars
+  731:59   warning  'cp' is assigned a value but never used      no-unused-vars
+  747:18   warning  'event' is defined but never used            no-unused-vars
+  747:25   warning  'ui' is defined but never used               no-unused-vars
+  761:19   warning  'event' is defined but never used            no-unused-vars
+  761:26   warning  'ui' is defined but never used               no-unused-vars
+  762:41   warning  'o' is assigned a value but never used       no-unused-vars
+  766:17   warning  'event' is defined but never used            no-unused-vars
+  766:24   warning  'ui' is defined but never used               no-unused-vars
+  767:41   warning  'o' is assigned a value but never used       no-unused-vars
+  775:26   warning  'ui' is defined but never used               no-unused-vars
+  776:142  warning  'ratio' is assigned a value but never used   no-unused-vars
+  812:4    warning  'jQuery' is not defined                      no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.ui.selectable.js
+   15:15  warning  Shadowing of global property 'undefined'      no-shadow-restricted-names
+   15:15  warning  'undefined' is defined but never used         no-unused-vars
+  154:22  warning  'tmp' is already defined                      no-redeclare
+  232:7   warning  'options' is assigned a value but never used  no-unused-vars
+  266:4   warning  'jQuery' is not defined                       no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.ui.slider.js
+   15:15  warning  Shadowing of global property 'undefined'  no-shadow-restricted-names
+   15:15  warning  'undefined' is defined but never used     no-unused-vars
+  317:25  warning  'event' is defined but never used         no-unused-vars
+  626:35  warning  'j' is defined but never used             no-unused-vars
+  680:3   warning  'jQuery' is not defined                   no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.ui.sortable.js
+    15:15   warning  Shadowing of global property 'undefined'                    no-shadow-restricted-names
+    15:15   warning  'undefined' is defined but never used                       no-unused-vars
+    45:7    warning  'o' is assigned a value but never used                      no-unused-vars
+    81:5    warning  Unexpected newline between object and [ of property access  no-unexpected-multiline
+   100:40   warning  'nodes' is assigned a value but never used                  no-unused-vars
+   220:3    warning  Mixed spaces and tabs                                       no-mixed-spaces-and-tabs
+   520:7    warning  'self' is assigned a value but never used                   no-unused-vars
+   533:6    warning  Unnecessary semicolon                                       no-extra-semi
+   534:5    warning  Unnecessary semicolon                                       no-extra-semi
+   539:12   warning  'i' is already defined                                      no-redeclare
+   543:4    warning  Unnecessary semicolon                                       no-extra-semi
+   558:5    warning  Unnecessary semicolon                                       no-extra-semi
+   560:4    warning  Unnecessary semicolon                                       no-extra-semi
+   569:7    warning  'self' is assigned a value but never used                   no-unused-vars
+   582:6    warning  Unnecessary semicolon                                       no-extra-semi
+   583:5    warning  Unnecessary semicolon                                       no-extra-semi
+   586:12   warning  'i' is already defined                                      no-redeclare
+   590:13   warning  'j' is already defined                                      no-redeclare
+   601:5    warning  Unnecessary semicolon                                       no-extra-semi
+   602:4    warning  Unnecessary semicolon                                       no-extra-semi
+   626:4    warning  Unnecessary semicolon                                       no-extra-semi
+   631:13   warning  'i' is already defined                                      no-redeclare
+   632:9    warning  'p' is already defined                                      no-redeclare
+   637:5    warning  Unnecessary semicolon                                       no-extra-semi
+   668:178  warning  Unnecessary semicolon                                       no-extra-semi
+   669:175  warning  Unnecessary semicolon                                       no-extra-semi
+   877:7    warning  'o' is assigned a value but never used                      no-unused-vars
+   977:29   warning  'self' is assigned a value but never used                   no-unused-vars
+   997:13   warning  'i' is already defined                                      no-redeclare
+  1002:5    warning  Unnecessary semicolon                                       no-extra-semi
+  1003:4    warning  Unnecessary semicolon                                       no-extra-semi
+  1006:12   warning  'i' is already defined                                      no-redeclare
+  1023:14   warning  'i' is already defined                                      no-redeclare
+  1023:93   warning  Unnecessary semicolon                                       no-extra-semi
+  1037:13   warning  'i' is already defined                                      no-redeclare
+  1037:92   warning  Unnecessary semicolon                                       no-extra-semi
+  1071:4    warning  'jQuery' is not defined                                     no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.ui.tabs.js
+   14:15  warning  Shadowing of global property 'undefined'   no-shadow-restricted-names
+  199:66  warning  'i' is defined but never used              no-unused-vars
+  329:32  warning  '$show' is defined but never used          no-unused-vars
+  515:48  warning  'i' is defined but never used              no-unused-vars
+  549:36  warning  'i' is defined but never used              no-unused-vars
+  552:17  warning  'i' is defined but never used              no-unused-vars
+  570:49  warning  'i' is defined but never used              no-unused-vars
+  580:7   warning  'self' is assigned a value but never used  no-unused-vars
+  646:17  warning  Empty block statement                      no-empty
+  648:29  warning  'e' is defined but never used              no-unused-vars
+  660:17  warning  Empty block statement                      no-empty
+  735:16  warning  'e' is defined but never used              no-unused-vars
+  736:5   warning  't' is not defined                         no-undef
+  758:5   warning  'jQuery' is not defined                    no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/jquery.ui.widget.js
+   10:15  warning  Shadowing of global property 'undefined'                    no-shadow-restricted-names
+  206:5   warning  Unexpected newline between object and [ of property access  no-unexpected-multiline
+  249:5   warning  'jQuery' is not defined                                     no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.effects.blind.min.js
+  14:65  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.effects.bounce.min.js
+  15:347  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.effects.clip.min.js
+  14:269  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.effects.core.min.js
+  10:1    warning  'jQuery' is not defined                                          no-undef
+  10:103  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  10:244  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  10:276  warning  Unnecessary escape character: \%                                 no-useless-escape
+  10:306  warning  Unnecessary escape character: \%                                 no-useless-escape
+  10:336  warning  Unnecessary escape character: \%                                 no-useless-escape
+  10:430  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  11:45   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  11:384  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  12:111  warning  Unnecessary escape character: \-                                 no-useless-escape
+  21:239  warning  'unit' is not defined                                            no-undef
+  21:260  warning  'unit' is not defined                                            no-undef
+  21:275  warning  'unit' is not defined                                            no-undef
+  21:285  warning  'unit' is not defined                                            no-undef
+  30:128  warning  'jQuery' is not defined                                          no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.effects.drop.min.js
+  14:285  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.effects.explode.min.js
+  15:334  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.effects.fade.min.js
+  13:294  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.effects.fold.min.js
+  14:344  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.effects.highlight.min.js
+  14:103  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.effects.pulsate.min.js
+  13:133  warning  'times' is not defined      no-undef
+  13:164  warning  'duration' is not defined   no-undef
+  13:220  warning  'isVisible' is not defined  no-undef
+  13:247  warning  'animateTo' is not defined  no-undef
+  13:263  warning  'isVisible' is not defined  no-undef
+  13:300  warning  'animateTo' is not defined  no-undef
+  13:326  warning  'isVisible' is not defined  no-undef
+  13:349  warning  'isVisible' is not defined  no-undef
+  13:359  warning  'times' is not defined      no-undef
+  13:377  warning  'times' is not defined      no-undef
+  13:407  warning  'animateTo' is not defined  no-undef
+  13:418  warning  'duration' is not defined   no-undef
+  13:445  warning  'animateTo' is not defined  no-undef
+  13:456  warning  'animateTo' is not defined  no-undef
+  13:490  warning  'animateTo' is not defined  no-undef
+  13:501  warning  'duration' is not defined   no-undef
+  14:29   warning  'animateTo' is not defined  no-undef
+  14:152  warning  'jQuery' is not defined     no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.effects.scale.min.js
+  18:180  warning  'child' is not defined   no-undef
+  18:212  warning  'child' is not defined   no-undef
+  18:235  warning  'child' is not defined   no-undef
+  18:256  warning  'child' is not defined   no-undef
+  18:271  warning  'child' is not defined   no-undef
+  18:332  warning  'child' is not defined   no-undef
+  18:408  warning  'child' is not defined   no-undef
+  18:443  warning  'child' is not defined   no-undef
+  18:460  warning  'child' is not defined   no-undef
+  18:472  warning  'child' is not defined   no-undef
+  18:505  warning  'child' is not defined   no-undef
+  19:10   warning  'child' is not defined   no-undef
+  19:41   warning  'child' is not defined   no-undef
+  19:76   warning  'child' is not defined   no-undef
+  19:93   warning  'child' is not defined   no-undef
+  19:105  warning  'child' is not defined   no-undef
+  19:138  warning  'child' is not defined   no-undef
+  19:153  warning  'child' is not defined   no-undef
+  19:163  warning  'child' is not defined   no-undef
+  19:173  warning  'child' is not defined   no-undef
+  19:185  warning  'child' is not defined   no-undef
+  19:199  warning  'child' is not defined   no-undef
+  19:268  warning  'child' is not defined   no-undef
+  20:54   warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.effects.shake.min.js
+  14:341  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.effects.slide.min.js
+  14:257  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.effects.transfer.min.js
+  14:20  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.ui.accordion.min.js
+  30:215  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.ui.autocomplete.min.js
+  16:250  warning  Expected a 'break' statement before 'case'  no-fallthrough
+  25:147  warning  'jQuery' is not defined                     no-undef
+  30:216  warning  'result' is not defined                     no-undef
+  30:338  warning  'result' is not defined                     no-undef
+  30:354  warning  'result' is not defined                     no-undef
+  30:410  warning  'result' is not defined                     no-undef
+  31:157  warning  'jQuery' is not defined                     no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.ui.button.min.js
+  25:239  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.ui.core.min.js
+  17:438  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.ui.datepicker.min.js
+  29:360  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  43:435  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  53:75   warning  Unexpected constant condition                                    no-constant-condition
+  58:287  warning  Empty block statement                                            no-empty
+  59:297  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  80:305  warning  'jQuery' is not defined                                          no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.ui.dialog.min.js
+  39:373  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.ui.draggable.min.js
+  49:466  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.ui.droppable.min.js
+  25:348  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  26:272  warning  'jQuery' is not defined                                          no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.ui.mouse.min.js
+  16:25   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  17:248  warning  'jQuery' is not defined                                          no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.ui.position.min.js
+  16:345  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.ui.progressbar.min.js
+  16:115  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.ui.resizable.min.js
+  40:141  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  47:402  warning  'jQuery' is not defined                                          no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.ui.selectable.min.js
+  18:309  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  22:305  warning  'jQuery' is not defined                                          no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.ui.slider.min.js
+  33:423  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.ui.sortable.min.js
+  60:45  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.ui.tabs.min.js
+  21:97   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  33:102  warning  Empty block statement                                            no-empty
+  33:236  warning  Empty block statement                                            no-empty
+  35:12   warning  't' is not defined                                               no-undef
+  35:272  warning  'jQuery' is not defined                                          no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/development-bundle/ui/minified/jquery.ui.widget.min.js
+  15:433  warning  'jQuery' is not defined  no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/js/jquery-1.4.2.min.js
+   19:199  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   20:9    warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   20:486  warning  Unnecessary escape character: \[                                 no-useless-escape
+   20:488  warning  Unnecessary escape character: \.                                 no-useless-escape
+   22:49   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   22:285  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   26:277  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   27:191  warning  Empty block statement                                            no-empty
+   28:289  warning  Unnecessary escape character: \/                                 no-useless-escape
+   28:385  warning  Unnecessary escape character: \-                                 no-useless-escape
+   32:189  warning  Unnecessary escape character: \/                                 no-useless-escape
+   32:235  warning  Unnecessary escape character: \/                                 no-useless-escape
+   35:257  warning  Empty block statement                                            no-empty
+   44:325  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   48:523  warning  Unnecessary escape character: \.                                 no-useless-escape
+   48:525  warning  Unnecessary escape character: \|                                 no-useless-escape
+   49:211  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   49:423  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   51:171  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   51:331  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   52:271  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   53:487  warning  Empty block statement                                            no-empty
+   54:261  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   54:327  warning  Empty block statement                                            no-empty
+   60:185  warning  Empty block statement                                            no-empty
+   69:272  warning  Empty block statement                                            no-empty
+   70:573  warning  Unnecessary escape character: \[                                 no-useless-escape
+   74:59   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   75:47   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   76:201  warning  Unnecessary escape character: \*                                 no-useless-escape
+   76:403  warning  Unnecessary escape character: \)                                 no-useless-escape
+   76:412  warning  Unnecessary escape character: \(                                 no-useless-escape
+   76:414  warning  Unnecessary escape character: \)                                 no-useless-escape
+   77:141  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   77:498  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   78:395  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   84:204  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   84:287  warning  Expected a 'break' statement before 'case'                       no-fallthrough
+   84:304  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   86:378  warning  Unnecessary escape character: \[                                 no-useless-escape
+   86:390  warning  Unnecessary escape character: \(                                 no-useless-escape
+   89:427  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   91:447  warning  Empty block statement                                            no-empty
+   93:83   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   93:210  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  109:483  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  113:444  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  116:263  warning  Move function declaration to function body root                  no-inner-declarations
+  117:475  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  119:438  warning  Unnecessary escape character: \/                                 no-useless-escape
+  123:283  warning  Empty block statement                                            no-empty
+  125:414  warning  Empty block statement                                            no-empty
+  128:269  warning  Empty block statement                                            no-empty
+  130:21   warning  Empty block statement                                            no-empty
+  131:28   warning  Empty block statement                                            no-empty
+  146:267  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  152:362  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  152:458  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/junk/themes/JQuery/js/jquery-ui-1.8.5.custom.min.js
+   17:438  warning  'jQuery' is not defined                                          no-undef
+   18:1    warning  Unnecessary semicolon                                            no-extra-semi
+   32:433  warning  'jQuery' is not defined                                          no-undef
+   33:1    warning  Unnecessary semicolon                                            no-extra-semi
+   48:25   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+   49:248  warning  'jQuery' is not defined                                          no-undef
+   50:1    warning  Unnecessary semicolon                                            no-extra-semi
+   65:345  warning  'jQuery' is not defined                                          no-undef
+   66:1    warning  Unnecessary semicolon                                            no-extra-semi
+  114:466  warning  'jQuery' is not defined                                          no-undef
+  115:1    warning  Unnecessary semicolon                                            no-extra-semi
+  139:348  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  140:272  warning  'jQuery' is not defined                                          no-undef
+  141:1    warning  Unnecessary semicolon                                            no-extra-semi
+  180:141  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  187:402  warning  'jQuery' is not defined                                          no-undef
+  188:1    warning  Unnecessary semicolon                                            no-extra-semi
+  205:309  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  209:305  warning  'jQuery' is not defined                                          no-undef
+  210:1    warning  Unnecessary semicolon                                            no-extra-semi
+  269:45   warning  'jQuery' is not defined                                          no-undef
+  270:1    warning  Unnecessary semicolon                                            no-extra-semi
+  299:215  warning  'jQuery' is not defined                                          no-undef
+  300:1    warning  Unnecessary semicolon                                            no-extra-semi
+  315:250  warning  Expected a 'break' statement before 'case'                       no-fallthrough
+  324:147  warning  'jQuery' is not defined                                          no-undef
+  329:216  warning  'result' is not defined                                          no-undef
+  329:338  warning  'result' is not defined                                          no-undef
+  329:354  warning  'result' is not defined                                          no-undef
+  329:410  warning  'result' is not defined                                          no-undef
+  330:157  warning  'jQuery' is not defined                                          no-undef
+  331:1    warning  Unnecessary semicolon                                            no-extra-semi
+  355:239  warning  'jQuery' is not defined                                          no-undef
+  356:1    warning  Unnecessary semicolon                                            no-extra-semi
+  394:373  warning  'jQuery' is not defined                                          no-undef
+  395:1    warning  Unnecessary semicolon                                            no-extra-semi
+  427:423  warning  'jQuery' is not defined                                          no-undef
+  428:1    warning  Unnecessary semicolon                                            no-extra-semi
+  448:97   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  460:102  warning  Empty block statement                                            no-empty
+  460:236  warning  Empty block statement                                            no-empty
+  462:12   warning  't' is not defined                                               no-undef
+  462:272  warning  'jQuery' is not defined                                          no-undef
+  463:1    warning  Unnecessary semicolon                                            no-extra-semi
+  491:360  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  505:435  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  515:75   warning  Unexpected constant condition                                    no-constant-condition
+  520:287  warning  Empty block statement                                            no-empty
+  521:297  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  542:305  warning  'jQuery' is not defined                                          no-undef
+  543:1    warning  Unnecessary semicolon                                            no-extra-semi
+  558:115  warning  'jQuery' is not defined                                          no-undef
+  559:1    warning  Unnecessary semicolon                                            no-extra-semi
+  568:1    warning  'jQuery' is not defined                                          no-undef
+  568:103  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  568:244  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  568:276  warning  Unnecessary escape character: \%                                 no-useless-escape
+  568:306  warning  Unnecessary escape character: \%                                 no-useless-escape
+  568:336  warning  Unnecessary escape character: \%                                 no-useless-escape
+  568:430  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  569:45   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  569:384  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  570:111  warning  Unnecessary escape character: \-                                 no-useless-escape
+  579:239  warning  'unit' is not defined                                            no-undef
+  579:260  warning  'unit' is not defined                                            no-undef
+  579:275  warning  'unit' is not defined                                            no-undef
+  579:285  warning  'unit' is not defined                                            no-undef
+  588:128  warning  'jQuery' is not defined                                          no-undef
+  589:1    warning  Unnecessary semicolon                                            no-extra-semi
+  602:65   warning  'jQuery' is not defined                                          no-undef
+  603:1    warning  Unnecessary semicolon                                            no-extra-semi
+  617:347  warning  'jQuery' is not defined                                          no-undef
+  618:1    warning  Unnecessary semicolon                                            no-extra-semi
+  631:269  warning  'jQuery' is not defined                                          no-undef
+  632:1    warning  Unnecessary semicolon                                            no-extra-semi
+  645:285  warning  'jQuery' is not defined                                          no-undef
+  646:1    warning  Unnecessary semicolon                                            no-extra-semi
+  660:334  warning  'jQuery' is not defined                                          no-undef
+  661:1    warning  Unnecessary semicolon                                            no-extra-semi
+  673:294  warning  'jQuery' is not defined                                          no-undef
+  674:1    warning  Unnecessary semicolon                                            no-extra-semi
+  687:344  warning  'jQuery' is not defined                                          no-undef
+  688:1    warning  Unnecessary semicolon                                            no-extra-semi
+  701:103  warning  'jQuery' is not defined                                          no-undef
+  702:1    warning  Unnecessary semicolon                                            no-extra-semi
+  714:133  warning  'times' is not defined                                           no-undef
+  714:164  warning  'duration' is not defined                                        no-undef
+  714:220  warning  'isVisible' is not defined                                       no-undef
+  714:247  warning  'animateTo' is not defined                                       no-undef
+  714:263  warning  'isVisible' is not defined                                       no-undef
+  714:300  warning  'animateTo' is not defined                                       no-undef
+  714:326  warning  'isVisible' is not defined                                       no-undef
+  714:349  warning  'isVisible' is not defined                                       no-undef
+  714:359  warning  'times' is not defined                                           no-undef
+  714:377  warning  'times' is not defined                                           no-undef
+  714:407  warning  'animateTo' is not defined                                       no-undef
+  714:418  warning  'duration' is not defined                                        no-undef
+  714:445  warning  'animateTo' is not defined                                       no-undef
+  714:456  warning  'animateTo' is not defined                                       no-undef
+  714:490  warning  'animateTo' is not defined                                       no-undef
+  714:501  warning  'duration' is not defined                                        no-undef
+  715:29   warning  'animateTo' is not defined                                       no-undef
+  715:152  warning  'jQuery' is not defined                                          no-undef
+  716:1    warning  Unnecessary semicolon                                            no-extra-semi
+  733:180  warning  'child' is not defined                                           no-undef
+  733:212  warning  'child' is not defined                                           no-undef
+  733:235  warning  'child' is not defined                                           no-undef
+  733:256  warning  'child' is not defined                                           no-undef
+  733:271  warning  'child' is not defined                                           no-undef
+  733:332  warning  'child' is not defined                                           no-undef
+  733:408  warning  'child' is not defined                                           no-undef
+  733:443  warning  'child' is not defined                                           no-undef
+  733:460  warning  'child' is not defined                                           no-undef
+  733:472  warning  'child' is not defined                                           no-undef
+  733:505  warning  'child' is not defined                                           no-undef
+  734:10   warning  'child' is not defined                                           no-undef
+  734:41   warning  'child' is not defined                                           no-undef
+  734:76   warning  'child' is not defined                                           no-undef
+  734:93   warning  'child' is not defined                                           no-undef
+  734:105  warning  'child' is not defined                                           no-undef
+  734:138  warning  'child' is not defined                                           no-undef
+  734:153  warning  'child' is not defined                                           no-undef
+  734:163  warning  'child' is not defined                                           no-undef
+  734:173  warning  'child' is not defined                                           no-undef
+  734:185  warning  'child' is not defined                                           no-undef
+  734:199  warning  'child' is not defined                                           no-undef
+  734:268  warning  'child' is not defined                                           no-undef
+  735:54   warning  'jQuery' is not defined                                          no-undef
+  736:1    warning  Unnecessary semicolon                                            no-extra-semi
+  749:341  warning  'jQuery' is not defined                                          no-undef
+  750:1    warning  Unnecessary semicolon                                            no-extra-semi
+  763:257  warning  'jQuery' is not defined                                          no-undef
+  764:1    warning  Unnecessary semicolon                                            no-extra-semi
+  777:20   warning  'jQuery' is not defined                                          no-undef
+  778:1    warning  Unnecessary semicolon                                            no-extra-semi
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/exp4/quizval.js
+   4:5   warning  'radioGroup' is assigned a value but never used  no-unused-vars
+  13:9   warning  'i' is not defined                               no-undef
+  13:14  warning  'i' is not defined                               no-undef
+  13:35  warning  'i' is not defined                               no-undef
+  14:21  warning  'i' is not defined                               no-undef
+  15:23  warning  'i' is not defined                               no-undef
+  32:10  warning  'checkQuiz' is defined but never used            no-unused-vars
+  33:4   warning  'numCorrect' is not defined                      no-undef
+  34:4   warning  'numCorrect' is not defined                      no-undef
+  35:4   warning  'numCorrect' is not defined                      no-undef
+  36:4   warning  'numCorrect' is not defined                      no-undef
+  37:4   warning  'numCorrect' is not defined                      no-undef
+  38:4   warning  'numCorrect' is not defined                      no-undef
+  52:19  warning  'numCorrect' is not defined                      no-undef
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/js/spice_code.js
+    3:10  warning  'validateSpice' is defined but never used   no-unused-vars
+  276:10  warning  'makeCodeAppear' is defined but never used  no-unused-vars
+  591:10  warning  'refreshSpice' is defined but never used    no-unused-vars
+
+/home/runner/work/exp-spice-code-platform-iiith/exp-spice-code-platform-iiith/experiment/simulation/js/validator.js
+  154:9  warning  'pmosDrain' is assigned a value but never used   no-unused-vars
+  155:9  warning  'pmosGate' is assigned a value but never used    no-unused-vars
+  156:9  warning  'pmosSource' is assigned a value but never used  no-unused-vars
+  157:9  warning  'pmosBody' is assigned a value but never used    no-unused-vars
+  159:9  warning  'nmosDrain' is assigned a value but never used   no-unused-vars
+  160:9  warning  'nmosGate' is assigned a value but never used    no-unused-vars
+  161:9  warning  'nmosSource' is assigned a value but never used  no-unused-vars
+  162:9  warning  'nmosBody' is assigned a value but never used    no-unused-vars
+  165:9  warning  'invCallIn' is assigned a value but never used   no-unused-vars
+  166:9  warning  'invCallOut' is assigned a value but never used  no-unused-vars
+
+✖ 1848 problems (0 errors, 1848 warnings)
+  0 errors and 124 warnings potentially fixable with the `--fix` option.
+
