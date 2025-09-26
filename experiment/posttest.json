@@ -1,165 +1,184 @@
 {
-    "version": 2.0,
-    "questions": [
-{"question":"1. Identify the correct order in which the nodes are specified in SPICE for a mosfet",
-"answers":{
-            "a":"Gate Source Drain Bulkterminal",
-            "b":"Drain Gate Source Bulkterminal",
-            "c":"Bulkterinal Source Gate Drain",
-            "d":"None of the above"
-          },
-"correctAnswer":"b",
-"explanations": {
-    "a":"",
-    "b":"In SPICE, the nodes of a MOSFET are specified in the order of Drain, Gate, Source, and Bulkterminal. This order is consistent with the physical structure of a MOSFET transistor.",
-    "c":"",
-    "d":""
-},
-    "difficulty": "beginner"},
-            
-{"question":"2. Which of the following is not a part of the SPICE input file?",
-"answers":{
-            "a":"Data statement",
-            "b":"Control statement",
-            "c":"Output statement",
-            "d":"Behavourial statement"
-          },
-"correctAnswer":"d",
-"explanations": {
-    "a":"A data statement is a part of the SPICE input file. It is used to define the values of circuit components such as resistors, capacitors, and voltage sources. It provides the initial conditions for the circuit simulation.",
-    "b":"A control statement is also a part of the SPICE input file. It is used to specify various simulation controls, such as the type of analysis to be performed (e.g., DC, AC, transient), the start and stop times for the simulation, and the desired accuracy level.",
-    "c":"An output statement is also a part of the SPICE input file. It is used to specify the variables or quantities of interest that should be recorded or displayed as the output of the simulation. This could include voltage values, current values, power dissipation, or other relevant quantities.",
-    "d":"There is no specific behavioral statement in the SPICE language. However, SPICE does provide behavioral modeling capabilities through various types of statements, such as voltage-controlled voltage sources (VCVS), current-controlled current sources (CCCS), and other behavioral elements. These elements are used to model complex circuit behaviors and are included in the SPICE input file, but there is no separate category called behavioral statement."
-},
-    "difficulty": "intermediate"},
-            
- {"question":"3. What does this indicate .DC Vds 0 5 0.5 Vgs 0 5 1?",
-"answers":{
-            "a":"The voltage Vds will be swept from 0 to 5V in steps of 1V for every value of Vgs. ",
-            "b":"The voltage Vgs will be swept from 0 to 5V in steps of 1V for every value of Vds. ()",
-            "c":"The voltage Vds will be swept from 0 to 1V in steps of 5V for every value of Vgs. ",
-            "d":"None of them"
-          },
-"correctAnswer":"a",
-"explanations": {
-    "a":"It indicates that the voltage Vds (drain-source voltage) will be varied from 0 to 5V with a step size of 1V. This sweep will be performed for every value of Vgs (gate-source voltage).",
-    "b":"This option is incorrect because it misinterprets the given DC sweep statement. The statement specifies that Vds (drain-source voltage) will be varied while Vgs (gate-source voltage) remains constant.",
-    "c":"Step size is greater than maximum Voltage.",
-    "d":"One of the above optionsis correct"
-},
-    "difficulty": "advanced"},
-            
-{"question":"4. What are the analysis done to obtain the graphs for the experiments done so far?",
-"answers":{
-            "a":"DC analysis",
-            "b":"Transient",
-            "c":"Both of them",
-            "d":"None of them"
-          },
-"correctAnswer":"c",
-"explanations": {
-    "a":"DC analysis is commonly used to determine the operating points, voltage levels, current flow, and power consumption of electronic components. While DC analysis can provide valuable information, it may not capture the dynamic behavior or transient effects of a system.",
-    "b":"Transient analysis considers the effects of time-varying inputs, initial conditions, and the response of components to changes in these variables. It is used to study phenomena such as charging and discharging of capacitors, switching behavior, and signal propagation delays. Transient analysis provides a more comprehensive understanding of a system's behavior compared to DC analysis.",
-    "c":"This option is correct because it suggests that both DC analysis and transient analysis have been conducted to obtain the graphs for the experiments done so far. This indicates that the experiments have been thoroughly studied, considering both the steady-state behavior and the dynamic response over time. By performing both types of analysis, a more complete understanding of the system's behavior can be achieved.",
-    "d":"One/Both of them are correct"
-},
-    "difficulty": "intermediate"},
-            
-{"question":"5. Which statement is false about declaration of capacitor in SPICE",
-"answers":{
-            "a":"The positive node is followed by the negative node in declsration",
-            "b":"There is no way to specify intial condition",
-            "c":"Both of the above",
-            "d":"None of the above"
-          },
-"correctAnswer":"b",
-"explanations": {
-    "a":"This convention is consistent with the standard electrical symbol for a capacitor, where the longer line represents the positive terminal.",
-    "b":"In SPICE, you can specify the initial condition of a capacitor using the '.IC' (Initial Condition) statement. The .IC statement allows you to set the initial voltage across the capacitor, which can be useful for transient analysis or circuit startup simulations.",
-    "c":"One/Both of them are true.",
-    "d":"One/both of them are false"
-},
-    "difficulty": "beginner"},
-            
-{"question":"6. Among the following which of the analysis can neither be printed nor plotted ",
-"answers":{
-            "a":".DC",
-            "b":".NOISE",
-            "c":".TRAN",
-            "d":".AC"
-          },
-"correctAnswer":"b",
-"explanations": {
-    "a":"DC analysis can be printed or plotted, as it involves steady-state conditions and provides information about the operating point of the circuit",
-    "b":"Noise analysis cannot be printed or plotted directly because it deals with statistical information and provides results in terms of noise spectral density or noise figure. The output of a noise analysis is typically numerical and cannot be represented graphically",
-    "c":"Transient analysis can be printed or plotted, as it provides information about the time-domain behavior of the circuit. It is commonly used to observe voltage or current waveforms in response to specific input conditions",
-    "d":"AC analysis can be printed or plotted, as it provides information about the frequency response of the circuit. It is used to examine gain, phase shift, and frequency-dependent characteristics of the circuit."
-},
-    "difficulty": "beginner"},            
-            
-{"question":"7. The file extension which is not generated by spice?",
-"answers":{
-            "a":".tr0",
-            "b":".st0",
-            "c":".ic",
-            "d":"None of the above"
-          },
-"correctAnswer":"d",
-"explanations": {
-    "a":"",
-    "b":"",
-    "c":"",
-    "d":""
-},
-    "difficulty": "intermediate"},
-            
-{"question":"8. What analysis should be performed to study variation of voltage over time?",
-"answers":{
-            "a":".op",
-            "b":".tran",
-            "c":".dc",
-            "d":".sens"
-          },
-"correctAnswer":"b",
-"explanations": {
-    "a":"The '.op' analysis in circuit simulation is used to find the operating point of a circuit, which refers to the steady-state conditions when all capacitors and inductors have fully charged or discharged. It does not provide information about the variation of voltage over time.",
-    "b":"The '.tran' analysis in circuit simulation is used to study the transient response of a circuit, which involves observing the variation of voltage or other signals over time. It allows for the simulation of time-varying inputs or disturbances and captures how the circuit responds to them.",
-    "c":"It calculates the DC operating point by sweeping a particular parameter, such as voltage or current, over a range of values while keeping all other variables constant. However, it does not provide information about the variation of voltage over time.",
-    "d":"The '.sens' analysis in circuit simulation is used for sensitivity analysis. It determines how the circuit's output or certain parameters vary with respect to changes in specific input variables. While it can provide valuable insights into the sensitivity of a circuit's behavior, it does not directly study the variation of voltage over time."
-},
-    "difficulty": "intermediate"},
-            
- {"question":"9. Which of the following statement is false?",
-"answers":{
-            "a":" First statement of a spice code is a comment",
-            "b":"Comments in spice begin with *",
-            "c":"Comments in spice begin with #",
-            "d":"None of the above"
-          },
-"correctAnswer":"c",
-"explanations": {
-    "a":"In SPICE (Simulation Program with Integrated Circuit Emphasis), the first line of a SPICE code is typically reserved for comments. It is common practice to include a brief description or purpose of the circuit simulation in the initial comment section.",
-    "b":"In SPICE, comments are denoted by an asterisk () at the beginning of a line. Anything written after the asterisk is considered a comment and is ignored by the SPICE simulator when running the simulation.",
-    "c":"Comments in SPICE do not begin with the hash symbol (#)",
-    "d":"Oneof the above is false"
-},
-    "difficulty": "beginner"},
-            
-{"question":"10. What is the PC version of spice called?",
-"answers":{
-            "a":"HSPICE",
-            "b":"PSPICE",
-            "c":"TSPICE",
-            "d":"NSPICE"
-          },
-"correctAnswer":"b",
-"explanations": {
-    "a":"HSPICE, developed by Synopsys, is a powerful and widely-used circuit simulator primarily used in the industry for accurate and detailed circuit analysis. However, it is not specifically designed for PC use.",
-    "b":"PSPICE, developed by Cadence Design Systems, is the PC version of SPICE. It is a popular and widely-used circuit simulator that provides similar functionality as SPICE but is designed specifically for use on personal computers. PSPICE allows users to simulate and analyze electronic circuits, perform transient and frequency domain analyses, and evaluate circuit performance.",
-    "c":"TSPICE is actually another variant of SPICE, specifically developed by Synopsis for transistor-level circuit simulations. However, it is not intended for PC use",
-    "d":"NSPICE is not the PC version of SPICE."
-},
-    "difficulty": "intermediate"}
-                        
-]
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Identify the correct order in which the nodes are specified in SPICE for a mosfet",
+      "answers": {
+        "a": "Gate Source Drain Bulkterminal",
+        "b": "Drain Gate Source Bulkterminal",
+        "c": "Bulkterinal Source Gate Drain",
+        "d": "None of the above"
+      },
+      "correctAnswer": "b",
+      "explanations": {
+        "a": "Incorrect. This is not the correct order for MOSFET node specification in SPICE.",
+        "b": "Correct. SPICE specifies MOSFET nodes as Drain, Gate, Source, Bulkterminal.",
+        "c": "Incorrect. This is not the correct order for MOSFET node specification in SPICE.",
+        "d": "Incorrect. There is a correct option for MOSFET node order."
+      },
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "2. Which of the following is not a part of the SPICE input file?",
+      "answers": {
+        "a": "Data statement",
+        "b": "Control statement",
+        "c": "Output statement",
+        "d": "Behavourial statement"
+      },
+      "correctAnswer": "d",
+      "explanations": {
+        "a": "Incorrect. Data statements are part of the SPICE input file.",
+        "b": "Incorrect. Control statements are part of the SPICE input file.",
+        "c": "Incorrect. Output statements are part of the SPICE input file.",
+        "d": "Correct. There is no specific 'behavioral statement' category in SPICE."
+      },
+      "difficulty": "intermediate"
+    },
+
+    {
+      "question": "3. What does this indicate .DC Vds 0 5 0.5 Vgs 0 5 1?",
+      "answers": {
+        "a": "The voltage Vds will be swept from 0 to 5V in steps of 1V for every value of Vgs. ",
+        "b": "The voltage Vgs will be swept from 0 to 5V in steps of 1V for every value of Vds. ()",
+        "c": "The voltage Vds will be swept from 0 to 1V in steps of 5V for every value of Vgs. ",
+        "d": "None of them"
+      },
+      "correctAnswer": "a",
+      "explanations": {
+        "a": "Correct. Vds is swept from 0 to 5V in steps of 0.5V for each value of Vgs.",
+        "b": "Incorrect. Vgs is not swept for every value of Vds in this statement.",
+        "c": "Incorrect. The step size is not greater than the maximum voltage in this case.",
+        "d": "Incorrect. There is a correct option above."
+      },
+      "difficulty": "advanced"
+    },
+
+    {
+      "question": "4. What are the analysis done to obtain the graphs for the experiments done so far?",
+      "answers": {
+        "a": "DC analysis",
+        "b": "Transient",
+        "c": "Both of them",
+        "d": "None of them"
+      },
+      "correctAnswer": "c",
+      "explanations": {
+        "a": "Incorrect. DC analysis alone does not provide all required graphs; transient analysis is also needed.",
+        "b": "Incorrect. Transient analysis alone does not provide all required graphs; DC analysis is also needed.",
+        "c": "Correct. Both DC and transient analysis are used to obtain the graphs for these experiments.",
+        "d": "Incorrect. There are correct options above."
+      },
+      "difficulty": "intermediate"
+    },
+
+    {
+      "question": "5. Which statement is false about declaration of capacitor in SPICE",
+      "answers": {
+        "a": "The positive node is followed by the negative node in declsration",
+        "b": "There is no way to specify intial condition",
+        "c": "Both of the above",
+        "d": "None of the above"
+      },
+      "correctAnswer": "b",
+      "explanations": {
+        "a": "Incorrect. The positive node is not always followed by the negative node in SPICE declaration.",
+        "b": "Correct. SPICE allows specification of initial conditions for capacitors using the .IC statement.",
+        "c": "Incorrect. Both statements above are not true together.",
+        "d": "Incorrect. There is a correct option above."
+      },
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "6. Among the following which of the analysis can neither be printed nor plotted ",
+      "answers": {
+        "a": ".DC",
+        "b": ".NOISE",
+        "c": ".TRAN",
+        "d": ".AC"
+      },
+      "correctAnswer": "b",
+      "explanations": {
+        "a": "Incorrect. DC analysis can be printed or plotted.",
+        "b": "Correct. Noise analysis cannot be printed or plotted directly; it provides statistical results.",
+        "c": "Incorrect. Transient analysis can be printed or plotted.",
+        "d": "Incorrect. AC analysis can be printed or plotted."
+      },
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "7. The file extension which is not generated by spice?",
+      "answers": {
+        "a": ".tr0",
+        "b": ".st0",
+        "c": ".ic",
+        "d": "None of the above"
+      },
+      "correctAnswer": "d",
+      "explanations": {
+        "a": "Incorrect. .tr0 is a file extension generated by SPICE.",
+        "b": "Incorrect. .st0 is a file extension generated by SPICE.",
+        "c": "Incorrect. .ic is a file extension generated by SPICE.",
+        "d": "Correct. All listed extensions can be generated by SPICE."
+      },
+      "difficulty": "intermediate"
+    },
+
+    {
+      "question": "8. What analysis should be performed to study variation of voltage over time?",
+      "answers": {
+        "a": ".op",
+        "b": ".tran",
+        "c": ".dc",
+        "d": ".sens"
+      },
+      "correctAnswer": "b",
+      "explanations": {
+        "a": "Incorrect. .op analysis does not study voltage variation over time.",
+        "b": "Correct. .tran analysis is used to study voltage variation over time.",
+        "c": "Incorrect. .dc analysis does not study voltage variation over time.",
+        "d": "Incorrect. .sens analysis does not study voltage variation over time."
+      },
+      "difficulty": "intermediate"
+    },
+
+    {
+      "question": "9. Which of the following statement is false?",
+      "answers": {
+        "a": " First statement of a spice code is a comment",
+        "b": "Comments in spice begin with *",
+        "c": "Comments in spice begin with #",
+        "d": "None of the above"
+      },
+      "correctAnswer": "c",
+      "explanations": {
+        "a": "Correct. The first statement in a SPICE code is typically a comment.",
+        "b": "Correct. Comments in SPICE begin with an asterisk (*).",
+        "c": "Incorrect. Comments in SPICE do not begin with #.",
+        "d": "Incorrect. There is a false statement above."
+      },
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "10. What is the PC version of spice called?",
+      "answers": {
+        "a": "HSPICE",
+        "b": "PSPICE",
+        "c": "TSPICE",
+        "d": "NSPICE"
+      },
+      "correctAnswer": "b",
+      "explanations": {
+        "a": "Incorrect. HSPICE is not the PC version of SPICE.",
+        "b": "Correct. PSPICE is the PC version of SPICE.",
+        "c": "Incorrect. TSPICE is not the PC version of SPICE.",
+        "d": "Incorrect. NSPICE is not the PC version of SPICE."
+      },
+      "difficulty": "intermediate"
+    }
+  ]
 }

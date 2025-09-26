@@ -1,25 +1,41 @@
-# Spice Code Platform
+### Steps to Complete the Code
 
-## Code -  
+1. **Arrange the Code Blocks:**
 
-- The code block that defines the name of the gate, includes file, and declares parameters should be placed first, followed by the code block that defines the voltage source, then the block that defines the inverter subcircuit, followed by the netlist statement that instantiates and calls the inverter subcircuit, then the block that defines the input waveform 'a' followed by the control statements to run the circuit and plot the required graphs, and then finally the end of code block.
-- Drag and drop the code blocks to arrange them in the order mentioned above.
-- Now enter the name of the MOSFET model file to be included ("PTM_45nm.txt").
-- To define the voltage source, enter a name for it and then select vdd as the positive terminal and 0 or gnd as the negative terminal.
-- Now, define the subcircuit by giving it a name and also giving names to the input and output arguments of the subckt.
-- Then inside this subckt block, give connections to the pmos and nmos as follows:
- *INSTANCE_NAME DRAIN GATE SOURCE BODY NAME_OF_MOSFET_AS_MENTIONED_IN_MODEL_FILE_INCLUDED w=WIDTH l=LENGTH*
- Give an instance name to both nmos and pmos, then the drain ports of both MOSFETS are to be connected to the output of the subcircuit, the gates to the input and the source and body of pmos to vdd, and of nmos to gnd or 0 respectively.
- These connections are made as per the given circuit diagram:
+   - Place the code block that defines the gate name, includes the model file, and declares parameters first.
+   - Next, add the code block that defines the voltage source.
+   - Then, add the block that defines the inverter subcircuit.
+   - Follow with the netlist statement that instantiates and calls the inverter subcircuit.
+   - Add the block that defines the input waveform 'a'.
+   - Add the control statements to run the circuit and plot the required graphs.
+   - Finally, add the end-of-code block.
 
- <img src="images/cmos_inverter.png">
+2. **Drag and Drop:**
 
-- Now end the subckt block by typing the name of the subcircuit after '.ends'.
-- Now call this inverter subcircuit by giving an instance name, then by giving 'a' as input and 'out' as output and then complete the call by typing in the inverter subckt name.
-- **Note** : *While giving names to the subcircuit, nodes, variables and instance names, make sure that they begin with either alphabets, '%', '$' or '_' charachter only and they can only contain alphanumeric characters,'%', '$' and '_' charachters only. The spice code is case insensitive so make sure to not give same names to any 2 variables in the same circuit or subcircuit irrespective of the case.*
+   - Drag and drop the code blocks to arrange them in the order mentioned above.
 
-## Observations -
+3. **Complete the Code Blocks:**
 
-- On clicking "validate" option after completing the code (assuming everything is filled correctly) you should see a "Success" message, a report, an input graph and an output graph under the observations section.
-- Observe the input wave and the corresponding output wave.
+   - Enter the name of the MOSFET model file to be included (`PTM_45nm.txt`).
+   - For the voltage source, enter a name and select `vdd` as the positive terminal and `0` or `gnd` as the negative terminal.
+   - Define the subcircuit by giving it a name and specifying the input and output arguments.
+   - Inside the subcircuit block, connect the PMOS and NMOS as follows:
+     - `INSTANCE_NAME DRAIN GATE SOURCE BODY NAME_OF_MOSFET_AS_MENTIONED_IN_MODEL_FILE_INCLUDED w=WIDTH l=LENGTH`
+     - Give instance names to both NMOS and PMOS.
+     - Connect the drain ports of both MOSFETs to the output of the subcircuit, the gates to the input, and the source/body of PMOS to `vdd`, and of NMOS to `gnd` or `0`.
+   - Refer to the following circuit diagram for connections:
 
+     <img src="images/cmos_inverter.png"  width="300px">
+
+   - End the subcircuit block by typing the name of the subcircuit after `.ends`.
+   - Call the inverter subcircuit by giving an instance name, then `a` as input and `out` as output, and complete the call by typing the inverter subcircuit name.
+
+**Note:**
+
+- While naming subcircuits, nodes, variables, and instance names, ensure they begin with an alphabet, `%`, `$`, or `_` and only contain alphanumeric characters, `%`, `$`, and `_`.
+- The SPICE code is case-insensitive. Do not use the same name for any two variables in the same circuit or subcircuit, regardless of case.
+
+### Observations
+
+- After clicking the **Validate** button (assuming all code blocks are filled correctly), you should see a "Success" message, a report, and input/output graphs under the Observations section.
+- Observe the input waveform and the corresponding output waveform.
