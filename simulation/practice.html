@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Virtual labs</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/virtual-labs/virtual-style@0.0.8-b/css/style.min.css"
+    />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jsPlumb/2.15.6/js/jsplumb.min.js"></script>
+    <link rel="stylesheet" href="./css/main.css" />
+  </head>
+
+  <body>
+    <div
+      class="columns mt-2 is-variable is-1 is-centered is-flex is-flex-wrap-wrap"
+    >
+      <div class="v-tabs">
+        <ul>
+          <li class="is-active">
+            <a>
+              <span>INVERTER CODE</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="columns is-centered">
+      <div class="column">
+        <div
+          class="v-collapsible-instruction-container v-instruction-container"
+        >
+          <div class="v-collapsible is-size-5" id="task-description">
+            Instructions
+          </div>
+          <div
+            class="v-content"
+            style="text-align: left; padding-left: 10%; padding-right: 10%"
+          >
+            <ul style="list-style: disc">
+              <li>
+                The Spice Code is divided into colored code blocks for clarity.
+              </li>
+              <li>
+                Drag and drop the code blocks to arrange them in the correct
+                order for the code to work.
+              </li>
+              <li>
+                Complete the partially filled code blocks by entering the
+                required values in the input fields.
+              </li>
+              <li>
+                Click on <b>Validate</b> after arranging and completing the code
+                blocks. If the code is correct, you will see a report and
+                input-output graphs.
+              </li>
+              <li>
+                Click on <b>Reset</b> to clear the workspace and start over.
+              </li>
+              <li>
+                You can find the MOSFET model text file (<b>PTM_45nm.txt</b>) in
+                the demo section.
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="columns is-variable is-1 is-centered is-flex is-flex-wrap-wrap my-0"
+    >
+      <div
+        id="start"
+        class="column is-1-desktop is-2-tablet is-3-mobile center-content"
+      >
+        <button class="v-button" onclick="ValidateCode()">Validate</button>
+      </div>
+      <div
+        id="restart"
+        class="column is-1-desktop is-2-tablet is-3-mobile center-content"
+      >
+        <button class="v-button" onclick="location.reload()">Reset</button>
+      </div>
+    </div>
+    <div class="columns is-variable is-5 is-centered is-flex is-flex-wrap-wrap">
+      <div class="column is-9-desktop is-10-tablet is-11-mobile center-content">
+        <div class="v-datalist-container">
+          <div class="v-datalist-title">Spice Code</div>
+          <div id="container">
+            <ul class="drag-sort-enable custom-list" id="spice-code">
+              <li id="1" style="background-color: #e3f2fd">
+                <span class="comment">* inverter * </span>
+                <p>
+                  .include
+                  <input
+                    type="text"
+                    id="file-name"
+                    placeholder="Enter the model file name to be included"
+                  />
+                </p>
+                <br />
+                <p><span class="comment">* Parameter Declarations </span></p>
+                <p>
+                  .PARAM supply=1.1<br />
+                  .PARAM Lmin=45nm<br />
+                  .PARAM Wmin=45nm<br />
+                  .PARAM Wp={2*Wmin}<br />
+                  .global vdd gnd
+                </p>
+              </li>
+              <li id="2" style="background-color: #fff3e0">
+                <span class="comment"
+                  >* Netlist statement to define voltage source
+                </span>
+                <p>
+                  <input
+                    type="text"
+                    id="voltage-source-name"
+                    placeholder="Give a name to the voltage source"
+                  />&nbsp;
+                  <select id="voltage-positive-terminal-selector">
+                    <option value="" disabled selected>
+                      Select positive terminal node
+                    </option>
+                    <option value="vdd">vdd</option>
+                    <option value="gnd">gnd</option>
+                    <option value="0">0</option>
+                    <option value="1.1">1.1</option>
+                  </select>
+                  <select id="voltage-negative-terminal-selector">
+                    <option value="" disabled selected>
+                      Select negative terminal node
+                    </option>
+                    <option value="vdd">vdd</option>
+                    <option value="gnd">gnd</option>
+                    <option value="0">0</option>
+                    <option value="1.1">1.1</option>
+                  </select>
+                </p>
+              </li>
+              <li id="3" style="background-color: #e8f5e9">
+                <span class="comment">* Define sub-circuit</span>
+                <p>
+                  .subckt&nbsp;
+                  <input
+                    type="text"
+                    id="subckt-name"
+                    placeholder="Give a name to the inverter subcircuit"
+                  />&nbsp;
+                  <input
+                    type="text"
+                    id="subckt-in-name"
+                    placeholder="Give a name to the input"
+                  />&nbsp;
+                  <input
+                    type="text"
+                    id="subckt-out-name"
+                    placeholder="Give a name to the output"
+                  /><br />
+
+                  <input
+                    type="text"
+                    id="pmos-name"
+                    placeholder="Give an instance name to the pmos"
+                  />&nbsp;
+                  <input
+                    type="text"
+                    id="pmos-drain-terminal"
+                    placeholder="Drain terminal"
+                  />&nbsp;
+                  <input
+                    type="text"
+                    id="pmos-gate-terminal"
+                    placeholder="Gate terminal"
+                  />&nbsp;
+                  <input
+                    type="text"
+                    id="pmos-source-terminal"
+                    placeholder="Source terminal"
+                  />&nbsp;
+                  <input
+                    type="text"
+                    id="pmos-body-terminal"
+                    placeholder="Body terminal"
+                  />&nbsp; pmos w={Wmin} L={Lmin}
+                  <br />
+
+                  <input
+                    type="text"
+                    id="nmos-name"
+                    placeholder="Give an instance name to the nmos"
+                  />&nbsp;
+                  <input
+                    type="text"
+                    id="nmos-drain-terminal"
+                    placeholder="Drain terminal"
+                  />&nbsp;
+                  <input
+                    type="text"
+                    id="nmos-gate-terminal"
+                    placeholder="Gate terminal"
+                  />&nbsp;
+                  <input
+                    type="text"
+                    id="nmos-source-terminal"
+                    placeholder="Source terminal"
+                  />&nbsp;
+                  <input
+                    type="text"
+                    id="nmos-body-terminal"
+                    placeholder="Body terminal"
+                  />&nbsp; nmos w={Wmin} L={Lmin}<br />
+
+                  .ends
+                  <input
+                    type="text"
+                    id="end-subckt-name"
+                    placeholder="Enter the subckt name"
+                  />
+                </p>
+              </li>
+              <li id="4" style="background-color: #fce4ec">
+                <span class="comment"
+                  >*netlist statement to call the inverter sub circuit</span
+                >
+                <p>
+                  <input
+                    type="text"
+                    id="inverter-call-instance-name"
+                    placeholder="Give an instance name to the inverter component"
+                  />&nbsp;
+                  <input
+                    type="text"
+                    id="inverter-call-input"
+                    placeholder="Input Node"
+                  />&nbsp;
+                  <input
+                    type="text"
+                    id="inverter-call-output"
+                    placeholder="Output Node"
+                  />&nbsp;
+                  <input
+                    type="text"
+                    id="inverter-call-subckt-name"
+                    placeholder="Enter the sub circuit name to be called"
+                  />
+                </p>
+              </li>
+              <li id="5" style="background-color: #f3e5f5">
+                <span class="comment">*Declaring Input Waveform</span><br />
+                .PARAM trfin=10p<br />
+                .PARAM t1 = 10n<br />
+                .PARAM t2 = 20n<br />
+                .PARAM t3 = 30n<br />
+                .PARAM t4 = 40n<br />
+                .PARAM t5 = 1*8000p+1200p<br />
+                .PARAM t6 = 1*8000p+1210p<br />
+                .PARAM t7 = 1*8000p+5200p<br />
+                .PARAM t8 = 1*8000p+5210p<br /><br />
+
+                <span class="comment">*Transient Analysis</span><br />
+                .tran 6p 50n<br /><br />
+
+                <span class="comment">
+                  *Use below line for input (declaring input pwl Waveform)<br />
+                  *'V1' is the PWL source name, 'a' is the input name </span
+                ><br />
+                V1 a 0 PWL (0 0 't1' 0 't1+trfin' 'supply' 't2' 'supply' 't3'
+                'supply' 't3+trfin' 0 't4' 0)
+              </li>
+              <li id="6" style="background-color: #ede7f6">
+                <span class="comment">*Control Statements</span><br />
+                .control<br />
+                run<br /><br />
+                <span class="comment">*sets background color of plot</span
+                ><br />
+                set color0=white<br /><br />
+                <span class="comment">*plots input</span>
+                <br />
+                plot v(a)<br /><br />
+                <span class="comment">*plots output</span>
+                <br />
+                plot v(out)<br /><br />
+                .endc
+              </li>
+              <li id="7" style="background-color: #fffde7">
+                <span class="comment">*End of the code</span><br />
+                .end
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="column is-3-desktop is-10-tablet is-11-mobile center-content">
+        <div class="v-datalist-container">
+          <div class="v-datalist-title">Observations</div>
+          <div class="v-datalist-row">
+            <div id="result"></div>
+            <div id="obs-table"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      const currentTab = { NOT: 1 };
+      let selectedTab = currentTab.NOT;
+      const tabs = document.querySelectorAll(".v-tabs li");
+      tabs.forEach((tab) => {
+        tab.addEventListener("click", () => {
+          tabs.forEach((item) => item.classList.remove("is-active"));
+          tab.classList.add("is-active");
+          let parent = tab.parentNode;
+          selectedTab = Array.prototype.indexOf.call(parent.children, tab);
+        });
+      });
+    </script>
+    <script src="./js/main.js" type="module"></script>
+    <script src="https://cdn.jsdelivr.net/gh/virtual-labs/virtual-style@0.0.8-b/js/script.js"></script>
+  <script src="../assets/js/iframeResize.js"></script>
+        
+        </body>
+</html>

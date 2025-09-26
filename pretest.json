@@ -1,0 +1,73 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.  For storing DC operating point the command used is ____",
+      "answers": {
+        "a": ".TRAN",
+        "b": ".OPT",
+        "c": ".OP",
+        "d": "None of the above"
+      },
+      "correctAnswer": "c",
+      "explanations": {
+        "a": "Incorrect. .TRAN is used for transient analysis, not for storing DC operating point.",
+        "b": "Incorrect. .OPT is used for optimization, not for storing DC operating point.",
+        "c": "Correct. .OP is used for operating point analysis and stores the DC operating point.",
+        "d": "Incorrect. There is a correct option above."
+      },
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Analysis done to study the effect of time is called ____",
+      "answers": {
+        "a": "AC Analysis",
+        "b": "DC Analysis",
+        "c": "Transient Analysis",
+        "d": "Noise Analysis"
+      },
+      "correctAnswer": "c",
+      "explanations": {
+        "a": "Incorrect. AC analysis does not study the effect of time; it focuses on frequency response.",
+        "b": "Incorrect. DC analysis does not study the effect of time; it focuses on steady-state conditions.",
+        "c": "Correct. Transient analysis studies the effect of time in circuits.",
+        "d": "Incorrect. Noise analysis studies random fluctuations, not the effect of time."
+      },
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "3. In DC analysis, ___",
+      "answers": {
+        "a": "Inductor is replaced with short circuit, capacitor is replaced with open circuit",
+        "b": "Inductor is replaced with open circuit, capacitor is replaced with open circuit",
+        "c": "Inductor is replaced with open circuit, capacitor is replaced with short circuit",
+        "d": "Inductor is replaced with short circuit, capacitor is replaced with short circuit"
+      },
+      "correctAnswer": "a",
+      "explanations": {
+        "a": "Correct. In DC analysis, inductors are replaced with short circuits and capacitors with open circuits.",
+        "b": "Incorrect. Inductors are not replaced with open circuits in DC analysis.",
+        "c": "Incorrect. Inductors are not replaced with open circuits and capacitors are not replaced with short circuits in DC analysis.",
+        "d": "Incorrect. Both components are not replaced with short circuits in DC analysis."
+      },
+      "difficulty": "advanced"
+    },
+    {
+      "question": " 4. Small signal gain and impedance calculation is called ____",
+      "answers": {
+        "a": "Pole Zero Analysis",
+        "b": "Transfer Function Analysis",
+        "c": "AC Analysis",
+        "d": "Transient Analysis"
+      },
+      "correctAnswer": "b",
+      "explanations": {
+        "a": "Incorrect. Pole zero analysis does not specifically calculate small signal gain and impedance.",
+        "b": "Correct. Transfer function analysis is used for small signal gain and impedance calculation.",
+        "c": "Incorrect. AC analysis is related but not as specific as transfer function analysis for this calculation.",
+        "d": "Incorrect. Transient analysis does not calculate small signal gain and impedance."
+      },
+      "difficulty": "advanced"
+    }
+  ]
+}
